@@ -7,7 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-19 15:42+0000\n"
 "PO-Revision-Date: 2025-09-19 16:08+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: French <https://translate.ceo-vision.com/projects/"
 "gofast-application/gofast-legacy/fr/>\n"
 "Language: fr\n"
@@ -87,7 +87,7 @@ msgstr "Fichiers de traduction"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
 msgid "Translation files."
-msgstr ""
+msgstr "Fichiers de traduction"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
 msgid "Public files"
@@ -530,9 +530,6 @@ msgid "Uid of process launcher"
 msgstr "Uid du lanceur de processus"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Document reference"
 msgid "Document reference"
 msgstr "Référence documentaire"
 
@@ -2615,10 +2612,8 @@ msgid "Comments are responses to node content."
 msgstr "Les commentaires sont des réponses au contenu des nœuds."
 
 #: /sites/default/files/languages/gfen_.js?rzualv
-#, fuzzy
-#| msgid "Taxonomy Term"
 msgid "Taxonomy Terms"
-msgstr "Terme de taxonomie"
+msgstr "Termes de taxonomie"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
 msgid "Taxonomy terms are used to categorize content."
@@ -5338,8 +5333,6 @@ msgid "Display the last comment of a node"
 msgstr "Afficher le dernier commentaire d'un nœud"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
-#, fuzzy
-#| msgid "Last Comment"
 msgid "Last comment"
 msgstr "Dernier commentaire"
 
@@ -6978,8 +6971,6 @@ msgid "Userpoints total"
 msgstr "Total de points utilisateur"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
-#, fuzzy
-#| msgid "Userpoints total"
 msgid "Userpoints Total"
 msgstr "Total de points utilisateur"
 
@@ -7117,8 +7108,6 @@ msgid "Userpoints Transaction ID"
 msgstr "Userpoints Transaction ID"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
-#, fuzzy
-#| msgid "User Relationships"
 msgid "User relationships"
 msgstr "Relations utilisateurs"
 
@@ -10601,9 +10590,6 @@ msgid "Add your tags here"
 msgstr "Ajoutez vos tags ici"
 
 #: sites/all/modules/gofast/gofast_microblogging/gofast_microblogging.js
-#, fuzzy
-#| msgctxt "gofast:gofast_workflow"
-#| msgid "Validate"
 msgid "Validate"
 msgstr "Valider"
 
@@ -10717,9 +10703,6 @@ msgid "day"
 msgstr "jour"
 
 #: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
-#, fuzzy
-#| msgctxt "data_types"
-#| msgid "list"
 msgid "list"
 msgstr "liste"
 
@@ -12166,9 +12149,6 @@ msgid "Any question?"
 msgstr "Des questions ?"
 
 #: /
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Documentation"
 msgid "Documentation"
 msgstr "Documentation"
 
@@ -12193,9 +12173,6 @@ msgid "unknown error: 6"
 msgstr "erreur inconnue : 6"
 
 #: /activity
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Listing activity filters"
 msgid "Listing activity filters"
 msgstr "Liste des filtres d'activité"
 
@@ -12232,9 +12209,6 @@ msgid "Reload Element"
 msgstr "Recharger Element"
 
 #: /activity
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Icon format"
 msgid "Icon format"
 msgstr "Format des icônes"
 
@@ -12427,9 +12401,6 @@ msgid "CMIS Query"
 msgstr "Requête CMIS"
 
 #: /activity
-#, fuzzy
-#| msgctxt "gofast:gofast_rssfeed"
-#| msgid "Add RSS Feed"
 msgid "Add RSS Feed"
 msgstr "Ajouter un flux RSS"
 
@@ -12438,16 +12409,10 @@ msgid "CMIS Repository"
 msgstr "Référentiel CMIS"
 
 #: /activity
-#, fuzzy
-#| msgctxt "gofast:gofast_rssfeed"
-#| msgid "Delete RSS Feed"
 msgid "Delete RSS Feed"
 msgstr "Supprimer le flux RSS"
 
 #: /activity
-#, fuzzy
-#| msgctxt "gofast:gofast_rssfeed"
-#| msgid "Edit RSS Feed"
 msgid "Edit RSS Feed"
 msgstr "Modifier le flux RSS"
 
@@ -12464,8 +12429,6 @@ msgid "Share a link to a File"
 msgstr "Partagez un fichier (lien)"
 
 #: /activity
-#, fuzzy
-#| msgid "Share a link to a File"
 msgid "Share a link to a file"
 msgstr "Partagez un fichier (lien)"
 
@@ -12542,9 +12505,6 @@ msgid "Statistics"
 msgstr "Statistiques"
 
 #: /activity
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Audit"
 msgid "Audit"
 msgstr "Audit"
 
@@ -13633,9 +13593,6 @@ msgid "Address"
 msgstr "Adresse"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast_contacts"
-#| msgid "Mobile"
 msgid "Mobile"
 msgstr "Mobile"
 
@@ -13670,15 +13627,10 @@ msgid "state"
 msgstr "Etat"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgid "Activity feed"
 msgid "activity feed"
-msgstr "Fil d'activité"
+msgstr "Flux d'activité"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Block file management"
 msgid "Block file management"
 msgstr "Gestion du bloc fichiers"
 
@@ -13719,9 +13671,6 @@ msgid "Group title"
 msgstr "Nom du Groupe"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Group nid"
 msgid "Group nid"
 msgstr "Nid du Groupe"
 
@@ -14160,9 +14109,6 @@ msgstr ""
 "<span class=\"delete_message_ereur\"></span>"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Message index"
 msgid "Message index"
 msgstr "Indice du message"
 
@@ -14217,9 +14163,6 @@ msgstr ""
 "[objet]</a>"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "GoFAST pm recipient"
 msgid "GoFAST pm recipient"
 msgstr "Destinataire(s)"
 
@@ -14272,23 +14215,14 @@ msgstr ""
 "</table></td></tr><tr><td colspan=\"2\">[signature]</td></tr>"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "GoFAST user picture"
 msgid "GoFAST user picture"
 msgstr "Photo utilisateur GoFAST"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Link to add friend"
 msgid "Link to add friend"
 msgstr "Lien pour ajouter des amis"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Quick action on the user"
 msgid "Quick action on the user"
 msgstr "Action rapide sur l'utilisateur"
 
@@ -14297,9 +14231,6 @@ msgid "Nom"
 msgstr "Nom"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast:stats"
-#| msgid "Inactive users"
 msgid "inactive users"
 msgstr "Utilisateurs inactifs"
 
@@ -14332,9 +14263,6 @@ msgid "Single Profile"
 msgstr "Profil unique"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Link to subscribe to the user"
 msgid "Link to subscribe to the user"
 msgstr "Lien pour s'abonner à l'utilisateur"
 
@@ -14383,9 +14311,6 @@ msgid "Id de l'entité"
 msgstr "Id de l'entité"
 
 #: /gofast_get_block
-#, fuzzy
-#| msgctxt "gofast:stats"
-#| msgid "Admins"
 msgid "Admins"
 msgstr "Admins"
 
@@ -16798,8 +16723,6 @@ msgid "Enter creator lastname"
 msgstr "Entrez le nom du créateur"
 
 #: /gofast/node-actions/5441
-#, fuzzy
-#| msgid "Add Sub-space"
 msgid "Add  Sub-space"
 msgstr "Ajouter un sous-espace"
 
@@ -16959,12 +16882,6 @@ msgid "User autocomplete"
 msgstr "Saisie semi-automatique des noms d'utilisateur"
 
 #: /gofast_ajaxification/ajax?url=%2Fuserlist%2Fadd
-#, fuzzy
-#| msgid ""
-#| "If you don't know how to configure this synchronisation, contact some "
-#| "business administrators or technical administrators, from <a href=\"/"
-#| "directory/users\">users directory</a>\r\n"
-#| "<br /><br />"
 msgid ""
 "If you don't know how to configure this synchronisation, contact some "
 "business administrators or technical administrators, from <a href=\"/"
@@ -17303,7 +17220,7 @@ msgstr " Vote -1  "
 
 #: /gofast/poll
 msgid "Publication"
-msgstr ""
+msgstr "Publication"
 
 #: /modal/ajax/contact/5459/edit
 msgid "Leave blank to use trimmed value of full text as the summary."
@@ -20388,9 +20305,6 @@ msgid "Information Icon"
 msgstr "Icône d'information"
 
 #: /gofast/ajax/carousel
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "New features and improvements"
 msgid "New features and improvements"
 msgstr "Nouvelles fonctionnalités et améliorations"
 
@@ -20595,11 +20509,8 @@ msgid "Indexed"
 msgstr "Indexé"
 
 #: /api
-#, fuzzy
-#| msgid "1 item"
-#| msgid_plural "@count items"
 msgid "1 item"
-msgstr "@count élement"
+msgstr "1 élément"
 
 #: /gofast_audit_export_xlsx?xid=%2Fgofast_audit_xls
 msgid "view_node"
@@ -20927,9 +20838,6 @@ msgstr ""
 "stocker au même endroit que le document signé."
 
 #: /gofast/node-actions/261
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Signature options"
 msgid "Signature options"
 msgstr "Options de signature"
 
@@ -23502,7 +23410,7 @@ msgstr "Connexion"
 #: /
 msgctxt "gofast"
 msgid "User login"
-msgstr ""
+msgstr "Connexion utilisateur"
 
 #: /
 msgctxt "gofast"
@@ -23589,9 +23497,6 @@ msgid "Filtering by creator : "
 msgstr "Filtrage par créateur : "
 
 #: /activity
-#, fuzzy
-#| msgctxt "gofast:gofast_cmis"
-#| msgid "Drag&Drop file here"
 msgctxt "gofast"
 msgid "Drag&Drop file here"
 msgstr "Glisser-Déposer un fichier ICI"
@@ -24164,8 +24069,6 @@ msgid "Modification date"
 msgstr "Date de modification"
 
 #: /gofast_ajaxification/ajax?url=%2Fuser%2F4
-#, fuzzy
-#| msgid "Standard"
 msgctxt "gofast"
 msgid "Standard"
 msgstr "Standard"
@@ -24358,8 +24261,6 @@ msgid "Space membership"
 msgstr "Accès aux Espaces Collaboratifs"
 
 #: /gofast_ajaxification/ajax?url=%2Fadmin%2Fpeople%2Fcreate%3Fgids%5B%5D%3D2009
-#, fuzzy
-#| msgid "Type"
 msgctxt "gofast"
 msgid "Type"
 msgstr "Type"
@@ -24390,16 +24291,11 @@ msgid "You are not member of this space !"
 msgstr "Vous n'êtes pas membre de cet espace !"
 
 #: /modal/ajax/og/5444/contact/admins
-#, fuzzy
-#| msgid "Contact administrators"
 msgctxt "gofast"
 msgid "Contact administrators"
 msgstr "Contacter les administrateurs"
 
 #: /modal/ajax/og/5444/contact/admins
-#, fuzzy
-#| msgctxt "gofast:gofast_directory"
-#| msgid "Administrators"
 msgctxt "gofast"
 msgid "Administrators"
 msgstr "Administrateurs"
@@ -24474,8 +24370,6 @@ msgid "Users"
 msgstr "Utilisateurs"
 
 #: /admin/config/gofast/global
-#, fuzzy
-#| msgid "Documents"
 msgctxt "gofast"
 msgid "Documents"
 msgstr "Documents"
@@ -24715,11 +24609,9 @@ msgstr "Liste des filtres d'activité"
 #: /gofast_ajaxification/ajax?url=%2F
 msgctxt "gofast"
 msgid "Activity stream filters"
-msgstr ""
+msgstr "Filtrer le fil d'activité"
 
 #: /gofast_ajaxification/ajax?url=%2Fuserlist%2Fadd
-#, fuzzy
-#| msgid "Location"
 msgctxt "gofast"
 msgid "Location"
 msgstr "Emplacement"
@@ -24740,8 +24632,6 @@ msgid "Upload new file"
 msgstr "Télécharger un nouveau fichier"
 
 #: /gofast_ajaxification/ajax?url=%2Fnode%2F5456
-#, fuzzy
-#| msgid "Unread comments"
 msgctxt "gofast"
 msgid "Unread comments"
 msgstr "Commentaires non-lus"
@@ -24782,8 +24672,6 @@ msgid "Info."
 msgstr "Info."
 
 #: /gofast_ajaxification/ajax?url=%2Fnode%2F5456
-#, fuzzy
-#| msgid "Comment"
 msgctxt "gofast"
 msgid "Comment."
 msgstr "Commentaire"
@@ -25104,11 +24992,9 @@ msgid "Deleted a document"
 msgstr "A supprimé un document"
 
 #: /gofast-cron.php
-#, fuzzy
-#| msgid "Status"
 msgctxt "gofast"
 msgid "Status"
-msgstr "État"
+msgstr "Statut"
 
 #: /gofast-cron.php
 msgctxt "gofast"
@@ -25191,8 +25077,6 @@ msgid "The article was deleted, you can't read infos"
 msgstr "L'article est supprimé, vous ne pouvez pas afficher ces informations"
 
 #: /activity/page
-#, fuzzy
-#| msgid "Summary"
 msgctxt "gofast"
 msgid "Summary"
 msgstr "Résumé"
@@ -26219,18 +26103,14 @@ msgid "word"
 msgstr "mot"
 
 #: /gofast/poll
-#, fuzzy
-#| msgid "Groups"
 msgctxt "gofast"
 msgid "_Groups"
 msgstr "Groupes"
 
 #: /gofast/poll
-#, fuzzy
-#| msgid "Organisations"
 msgctxt "gofast"
 msgid "_Organisations"
-msgstr "Organisation"
+msgstr "Organisations"
 
 #: /gofast-cron.php
 msgctxt "gofast"
@@ -26818,9 +26698,6 @@ msgid "Modified"
 msgstr "Modifié"
 
 #: /essential/get_node_content_part/hidden_filebrowser/0
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Info"
 msgctxt "gofast:ajax_file_browser"
 msgid "Info"
 msgstr "Info"
@@ -26856,8 +26733,6 @@ msgid "Archive"
 msgstr "Archiver"
 
 #: /modal/ajax/cart
-#, fuzzy
-#| msgid "Actions"
 msgctxt "gofast:ajax_file_browser"
 msgid "Actions"
 msgstr "Actions"
@@ -27003,8 +26878,6 @@ msgid "Allowed in spaces"
 msgstr "Autorisé dans les espaces"
 
 #: /admin/config/gofast/global/getform/edit-categories
-#, fuzzy
-#| msgid "Created by"
 msgctxt "gofast:gofast"
 msgid "Created by"
 msgstr "Créé par"
@@ -27837,8 +27710,6 @@ msgid "Extra Information"
 msgstr "Informations supplémentaires"
 
 #: /gofast_ajaxification/ajax?url=%2Fnode%2F5501
-#, fuzzy
-#| msgid "Spaces"
 msgctxt "gofast:gofast_conference"
 msgid "Spaces"
 msgstr "Espaces"
@@ -28007,8 +27878,6 @@ msgid "Pending members"
 msgstr "Membres en attente"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fspaces
-#, fuzzy
-#| msgid "Actions"
 msgctxt "gofast:gofast_directory"
 msgid "Actions"
 msgstr "Actions"
@@ -28055,8 +27924,6 @@ msgid "Please fill in both start and end dates"
 msgstr "Veuillez remplir les dates de début et de fin"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fusers
-#, fuzzy
-#| msgid "Picture"
 msgctxt "gofast:gofast_directory"
 msgid "Picture"
 msgstr "Image"
@@ -28102,9 +27969,6 @@ msgid "Creator"
 msgstr "Créateur"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fuserlists
-#, fuzzy
-#| msgctxt "gofast:stats"
-#| msgid "Admins"
 msgctxt "gofast:gofast_directory"
 msgid "Admins"
 msgstr "Admins"
@@ -28130,33 +27994,24 @@ msgid "First Name"
 msgstr "Prenom"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fcontacts-listing
-#, fuzzy
-#| msgid "Email"
 msgctxt "gofast:gofast_directory"
 msgid "Email"
 msgstr "Email"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fcontacts-listing
-#, fuzzy
-#| msgctxt "gofast_contacts"
-#| msgid "Mobile"
 msgctxt "gofast:gofast_directory"
 msgid "Mobile"
 msgstr "Mobile"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fcontacts-listing
-#, fuzzy
-#| msgid "Delete"
 msgctxt "gofast:gofast_directory"
 msgid "Delete"
 msgstr "Supprimer"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fcontacts-listing
-#, fuzzy
-#| msgid "Edit"
 msgctxt "gofast:gofast_directory"
 msgid "Edit"
-msgstr "Modifier"
+msgstr "Modif."
 
 #: sites/all/modules/gofast/gofast_kanban/js/gofastKanban.js
 msgctxt "gofast:gofast_kanban"
@@ -28432,8 +28287,6 @@ msgid "Custom Link"
 msgstr "Lien personnalisé"
 
 #: /activity
-#, fuzzy
-#| msgid "Logout"
 msgctxt "gofast:gofast_menu"
 msgid "Logout"
 msgstr "Déconnexion"
@@ -28799,8 +28652,6 @@ msgid "Space description"
 msgstr "Description de l'espace"
 
 #: /gofast_og/home_async/143
-#, fuzzy
-#| msgid "Content"
 msgctxt "gofast:gofast_og"
 msgid "Content"
 msgstr "Contenu"
@@ -29475,8 +29326,6 @@ msgid "Launch help tour"
 msgstr "Lancer le Tour d’Aide"
 
 #: sites/all/modules/gofast/gofast_user/js/gofast_user.js
-#, fuzzy
-#| msgid "User unblocked"
 msgctxt "gofast:gofast_user"
 msgid "User unblocked"
 msgstr "Utilisateur débloqué"
@@ -29542,9 +29391,6 @@ msgid "Pending members"
 msgstr "Membre en attente"
 
 #: /gofast_ajaxification/ajax?url=%2Fadmin%2Fpeople%2Fcreate%3Fgids%5B%5D%3D2009
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "You don't have permission to view this profile"
 msgctxt "gofast:gofast_user"
 msgid "You don't have permission to view this profile."
 msgstr "Vous n'êtes pas autorisé à afficher ce profil"
@@ -29770,8 +29616,6 @@ msgid "Description"
 msgstr "Description "
 
 #: /gofast_ajaxification/ajax?url=%2Fnode%2F5455
-#, fuzzy
-#| msgid "Role"
 msgctxt "gofast:gofast_userlist"
 msgid "Role"
 msgstr "Rôle"
@@ -30170,8 +30014,6 @@ msgstr ""
 "Déverrouiller"
 
 #: /gofast/node-actions/5430
-#, fuzzy
-#| msgid "Edit this document with OnlyOffice"
 msgctxt "gofast:gofast_workflows"
 msgid "Edit this document with OnlyOffice"
 msgstr "Editer ce document avec OnlyOffice"
@@ -30968,11 +30810,9 @@ msgid "External"
 msgstr "Externe"
 
 #: /profile/popup/4/14
-#, fuzzy
-#| msgid "Last login"
 msgctxt "gofast:user"
 msgid "Last login"
-msgstr "Dernière connexion"
+msgstr "Connecté le"
 
 #: /gofast_ajaxification/ajax?url=https%3A%2F%2Fgofast-preprod.ceo-vision.com%2Fgofast%2Fnode-info%2F5399
 msgctxt "gofast;gofast_metadata"
@@ -30990,8 +30830,6 @@ msgid "Are you sure you want share the below folders?"
 msgstr "Etes-vous sûr de vouloir partager les dossiers ci-dessous ?"
 
 #: /gofast_ajaxification/ajax?url=%2Fgofast_audit
-#, fuzzy
-#| msgid "group contributor"
 msgctxt "gofast_audit"
 msgid "group contributor"
 msgstr "Membre Contributeur"
@@ -31082,8 +30920,6 @@ msgid "First name"
 msgstr "Prénom"
 
 #: /modal/ajax/contact/5459/edit
-#, fuzzy
-#| msgid "Email"
 msgctxt "gofast_contacts"
 msgid "Email"
 msgstr "Email"
@@ -31343,8 +31179,6 @@ msgid "Description"
 msgstr "Description"
 
 #: sites/all/modules/gofast/gofast_kanban/js/gofastKanban.js
-#, fuzzy
-#| msgid "Documents"
 msgctxt "gofast_kanban"
 msgid "Documents"
 msgstr "Documents"
@@ -31397,9 +31231,6 @@ msgid "Hello @username"
 msgstr "Bonjour @username"
 
 #: /gofast-cron.php
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Informations"
 msgctxt "gofast_kanban"
 msgid "Informations"
 msgstr "Informations"
@@ -31582,8 +31413,6 @@ msgstr ""
 "Vous avez été retiré de certain(s) espace(s) (et de leur(s) sous-espace(s))"
 
 #: /spaces/ajax/node/5447/admin/people/delete-membership/8592
-#, fuzzy
-#| msgid "Message"
 msgctxt "gofast_og"
 msgid "Message"
 msgstr "Message"
@@ -31653,30 +31482,21 @@ msgid "Your export is being generating"
 msgstr "Votre export est en cours de génération"
 
 #: /gofast_audit_export_xlsx?xid=timestamp%255Bmin%255D%3D%26timestamp%255Bmax%255D%3D%26ldap_user_displayname_value%3D%26authname%3D%26title%3D%26event_type%3Dlogin
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Audit"
 msgctxt "gofast_stats"
 msgid "Audit"
 msgstr "Audit"
 
 #: /gofast_audit_export_xlsx?xid=timestamp%255Bmin%255D%3D%26timestamp%255Bmax%255D%3D%26ldap_user_displayname_value%3D%26authname%3D%26title%3D%26event_type%3Dlogin
-#, fuzzy
-#| msgid "Date"
 msgctxt "gofast_stats"
 msgid "Date"
 msgstr "Date"
 
 #: /gofast_audit_export_xlsx?xid=timestamp%255Bmin%255D%3D%26timestamp%255Bmax%255D%3D%26ldap_user_displayname_value%3D%26authname%3D%26title%3D%26event_type%3Dlogin
-#, fuzzy
-#| msgid "Firstname"
 msgctxt "gofast_stats"
 msgid "Firstname"
 msgstr "Prénom"
 
 #: /gofast_audit_export_xlsx?xid=timestamp%255Bmin%255D%3D%26timestamp%255Bmax%255D%3D%26ldap_user_displayname_value%3D%26authname%3D%26title%3D%26event_type%3Dlogin
-#, fuzzy
-#| msgid "Lastname"
 msgctxt "gofast_stats"
 msgid "Lastname"
 msgstr "Nom"
@@ -31687,22 +31507,16 @@ msgid "Title"
 msgstr "Titre"
 
 #: /gofast_audit_export_xlsx?xid=timestamp%255Bmin%255D%3D%26timestamp%255Bmax%255D%3D%26ldap_user_displayname_value%3D%26authname%3D%26title%3D%26event_type%3Dlogin
-#, fuzzy
-#| msgid "Nid"
 msgctxt "gofast_stats"
 msgid "Nid"
 msgstr "Nid"
 
 #: /gofast_audit_export_xlsx?xid=timestamp%255Bmin%255D%3D%26timestamp%255Bmax%255D%3D%26ldap_user_displayname_value%3D%26authname%3D%26title%3D%26event_type%3Dlogin
-#, fuzzy
-#| msgid "Details"
 msgctxt "gofast_stats"
 msgid "Details"
 msgstr "Détails"
 
 #: /gofast_audit_export_xlsx?xid=timestamp%255Bmin%255D%3D%26timestamp%255Bmax%255D%3D%26ldap_user_displayname_value%3D%26authname%3D%26title%3D%26event_type%3Dlogin
-#, fuzzy
-#| msgid "Event type"
 msgctxt "gofast_stats"
 msgid "Event type"
 msgstr "Type d'événement"
@@ -31748,9 +31562,6 @@ msgid "Status"
 msgstr "Statut"
 
 #: /gofast_stats/user_stats?xid=5450
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Super-Administrator"
 msgctxt "gofast_stats"
 msgid "Super-Administrator"
 msgstr "Super-Administrateur"
@@ -31766,8 +31577,6 @@ msgid "Broadcaster"
 msgstr "Diffuseur"
 
 #: /gofast_stats/user_stats?xid=5450
-#, fuzzy
-#| msgid "Extranet"
 msgctxt "gofast_stats"
 msgid "Extranet"
 msgstr "Extranet"
@@ -32701,8 +32510,6 @@ msgid "You have been added to the following spaces :"
 msgstr "Vous avez été ajouté aux espaces suivants : "
 
 #: /system/ajax
-#, fuzzy
-#| msgid "Message"
 msgctxt "gofast_userlist"
 msgid "Message"
 msgstr "Message"
@@ -32832,8 +32639,6 @@ msgstr ""
 "cette catégorie"
 
 #: /directory/spaces
-#, fuzzy
-#| msgid "Path"
 msgctxt "gofast:gofast_directory"
 msgid "Path"
 msgstr "Chemin"
@@ -32856,9 +32661,6 @@ msgid "Enter entity name"
 msgstr "Entrez le nom de l'entité"
 
 #: /gofast/audit/get/site/0
-#, fuzzy
-#| msgctxt "gofast:gofast_stats"
-#| msgid "Administrator member"
 msgid "Administrator member"
 msgstr "Administrateur"
 
@@ -32867,18 +32669,13 @@ msgid "Contributor member"
 msgstr "Membre contributeur"
 
 #: /gofast/audit/get/site/0
-#, fuzzy
-#| msgctxt "gofast:gofast_stats"
-#| msgid "Read only member"
 msgid "Read-only member"
 msgstr "Lecture seule"
 
 #: /gofast_audit_export_xlsx?sort[field]=date&sort[sort]=asc
-#, fuzzy
-#| msgid "Category"
 msgctxt "gofast_stats"
 msgid "Category"
-msgstr "Catégorie "
+msgstr "Catégorie"
 
 #: /gofast_audit
 msgid ""
@@ -32889,22 +32686,15 @@ msgstr ""
 "max_results_size results"
 
 #: /gofast_audit
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Click for export "
 msgid "Click for export"
 msgstr "Cliquez pour exporter"
 
 #: /admin/config/search/apachesolr/settings/gofast_solr/facets?destination=admin/config/search/apachesolr/settings
-#, fuzzy
-#| msgid "Date"
 msgctxt "gofast:gofast_metadata"
 msgid "Date"
 msgstr "Date"
 
 #: /search/solr/test
-#, fuzzy
-#| msgid "Date"
 msgctxt "gofast"
 msgid "Date"
 msgstr "Date"
@@ -33006,8 +32796,6 @@ msgid "Edit Service"
 msgstr "Service d'édition"
 
 #: /gofast-webhook/modal/ajax/admin/settings/delete-service/3
-#, fuzzy
-#| msgid "Delete"
 msgctxt "gofast:gofast_webhook"
 msgid "Delete"
 msgstr "Supprimer"
@@ -33023,8 +32811,6 @@ msgid "Events"
 msgstr "Les événements"
 
 #: /admin/config/gofast/global/getform/edit-webhook
-#, fuzzy
-#| msgid "Actions"
 msgctxt "gofast:gofast_webhook"
 msgid "Actions"
 msgstr "Actions"
@@ -33051,11 +32837,9 @@ msgid "Delete Service"
 msgstr "Service de suppression"
 
 #: /admin/config/gofast/global/getform/edit-webhook
-#, fuzzy
-#| msgid "Status"
 msgctxt "gofast:gofast_webhook"
 msgid "Status"
-msgstr "État"
+msgstr "Statut"
 
 #: /admin/config/gofast/global/getform/edit-webhook
 msgctxt "gofast:gofast_webhook"
@@ -33107,36 +32891,26 @@ msgstr ""
 "que les fichiers y seront extraits."
 
 #: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
-#, fuzzy
-#| msgid "Category"
 msgctxt "gofast:gofast_naming_rules"
 msgid "Category"
-msgstr "Catégorie "
+msgstr "Catégorie"
 
 #: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
-#, fuzzy
-#| msgid "Creation date"
 msgctxt "gofast:gofast_naming_rules"
 msgid "Creation date"
 msgstr "Date de création"
 
 #: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
-#, fuzzy
-#| msgid "Author"
 msgctxt "gofast:gofast_naming_rules"
 msgid "Author"
 msgstr "Auteur"
 
 #: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
-#, fuzzy
-#| msgid "Reference"
 msgctxt "gofast:gofast_naming_rules"
 msgid "Reference"
 msgstr "Référence"
 
 #: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
-#, fuzzy
-#| msgid "Title"
 msgctxt "gofast:gofast_naming_rules"
 msgid "Title"
 msgstr "Titre"
@@ -33321,9 +33095,6 @@ msgid "Total Enabled Members (Active + Blocked)"
 msgstr "Nombre total de membres habilités (actifs + bloqués)"
 
 #: /gofast_stats/global_space_stats
-#, fuzzy
-#| msgctxt "gofast:gofast_directory"
-#| msgid "Total documents"
 msgctxt "gofast_stats"
 msgid "Total Documents"
 msgstr "Total documents"
@@ -33336,16 +33107,10 @@ msgctxt "gofast:gofast_userlist:preadd:contextual_menu:item_label"
 msgid "Pre-Add members"
 msgstr "Pré-ajouter des membres"
 
-#, fuzzy
-#| msgctxt "gofast_og"
-#| msgid "Message for space administrators"
 msgctxt "gofast:gofast_userlist:preadd:modal:field"
 msgid "Message for space administrators"
 msgstr "Message pour les administrateurs d'espace"
 
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Pre-add new member(s)"
 msgctxt "gofast:gofast_userlist:preadd:modal:submit_button"
 msgid "Pre-add new member(s)"
 msgstr "Pré-ajouter un(des) nouveau(x) membre(s)"
@@ -33493,22 +33258,16 @@ msgid "Unbookmark"
 msgstr "Unbookmark"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fspaces
-#, fuzzy
-#| msgid "Subscribe"
 msgctxt "gofast:gofast_flag"
 msgid "Subscribe"
 msgstr "S'abonner"
 
 #: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fspaces
-#, fuzzy
-#| msgid "Unsubscribe"
 msgctxt "gofast:gofast_flag"
 msgid "Unsubscribe"
 msgstr "Se désabonner"
 
 #: /modal/ajax/og/space/bulk_subscribe/282-2009-2012-
-#, fuzzy
-#| msgid "Confirm"
 msgctxt "gofast:gofast_og"
 msgid "Confirm"
 msgstr "Confirmer"
@@ -33821,8 +33580,6 @@ msgstr "Chaque année"
 
 #: /node/add/conference;
 #: sites/all/modules/gofast/gofast_conference/js/gofast_conference_form.js
-#, fuzzy
-#| msgid "Custom"
 msgctxt "gofast:gofast_conference"
 msgid "Custom"
 msgstr "Personnalisé"
@@ -34137,15 +33894,11 @@ msgid "The value of the recurrence field is invalid"
 msgstr "La valeur du champ récurrence est invalide"
 
 #: /system/ajax
-#, fuzzy
-#| msgid "Link"
 msgctxt "gofast:gofast_bluemind"
 msgid "Link"
 msgstr "Lien"
 
 #: /system/ajax
-#, fuzzy
-#| msgid "File"
 msgctxt "gofast:gofast_bluemind"
 msgid "File"
 msgstr "Fichier"
@@ -34521,9 +34274,6 @@ msgid "Location modification"
 msgstr "Modification de lieu"
 
 #: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
-#, fuzzy
-#| msgctxt "gofast:ajax_file_browser"
-#| msgid "Deletion"
 msgid "Deletion"
 msgstr "Suppression"
 
@@ -34548,12 +34298,9 @@ msgid "Member addition"
 msgstr "Ajout de membres"
 
 #: /devel/php
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Login"
 msgctxt "gofast:gofast_audit"
 msgid "Login"
-msgstr "Connexion"
+msgstr "Identifiant"
 
 #: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=12657&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=253128&query=&sort%5Bfield%5D=eventtype&sort%5Bsort%5D=asc
 msgctxt "gofast:gofast_audit"
@@ -34600,8 +34347,6 @@ msgid "Civil Organization"
 msgstr "Organisation civile"
 
 #: /devel/php
-#, fuzzy
-#| msgid "View"
 msgctxt "gofast:gofast_audit"
 msgid "View"
 msgstr "Voir"
@@ -34622,8 +34367,6 @@ msgid "Disabling"
 msgstr "Désactivation"
 
 #: /devel/php
-#, fuzzy
-#| msgid "Download"
 msgctxt "gofast:gofast_audit"
 msgid "Download"
 msgstr "Téléchargement"
@@ -34650,8 +34393,6 @@ msgid "Copy this card"
 msgstr "Copier cette carte"
 
 #: /kanban/task/6122/copy
-#, fuzzy
-#| msgid "Copy"
 msgctxt "gofast_kanban"
 msgid "Copy"
 msgstr "Copier"
@@ -34687,20 +34428,14 @@ msgstr ""
 "sélectionné(s)."
 
 #: /api
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "User-Support"
 msgctxt "gofast:stats"
 msgid "User-Support"
 msgstr "Support-Utilisateurs"
 
 #: /node/620
-#, fuzzy
-#| msgctxt "gofast:gofast_directory"
-#| msgid "Pending members"
 msgctxt "gofast:gofast_userlist"
 msgid "Pending members"
-msgstr "Membres en attente"
+msgstr "Membre en attente"
 
 #: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=3196&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=63914&query%5Bevent_type%5D=user_unleave
 msgid "User unleave : "
@@ -34768,23 +34503,16 @@ msgid "Full reindexing has started."
 msgstr "La réindexation complète a commencé."
 
 #: /system/ajax
-#, fuzzy
-#| msgid "Space"
 msgctxt "gofast:gofast_og::contact_admins"
 msgid "Space"
 msgstr "Espace"
 
 #: /system/ajax
-#, fuzzy
-#| msgctxt "gofast:gofast_directory"
-#| msgid "Administrators"
 msgctxt "gofast:gofast_og::contact_admins"
 msgid "Administrators"
 msgstr "Administrateurs"
 
 #: /system/ajax
-#, fuzzy
-#| msgid "Remove"
 msgctxt "gofast:gofast_og::contact_admins"
 msgid "Remove"
 msgstr "Retirer"
@@ -34836,24 +34564,16 @@ msgid "Hello @name,"
 msgstr "Bonjour @nom,"
 
 #: /devel/php
-#, fuzzy
-#| msgctxt "gofast:gofast_directory"
-#| msgid "First Name"
 msgctxt "gofast:gofast_user"
 msgid "First Name"
 msgstr "Prenom"
 
 #: /devel/php
-#, fuzzy
-#| msgctxt "gofast:gofast_directory"
-#| msgid "Last Name"
 msgctxt "gofast:gofast_user"
 msgid "Last Name"
 msgstr "Nom"
 
 #: /devel/php
-#, fuzzy
-#| msgid "Username"
 msgctxt "gofast:gofast_user"
 msgid "Username"
 msgstr "Identifiant"
@@ -34973,11 +34693,9 @@ msgid "Modified comment"
 msgstr "Commentaire modifié"
 
 #: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=13266&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=265316&query%5Bevent_type%5D=comment_deleted
-#, fuzzy
-#| msgid "Delete comment"
 msgctxt "gofast"
 msgid "Deleted comment"
-msgstr "Supprimer le commentaire"
+msgstr "commentaire supprimé"
 
 #: /admin/config/system/cron/execute/gofast_mail_queue_cron
 msgctxt "gofast:gofast_user"
@@ -35374,9 +35092,6 @@ msgstr ""
 "tard."
 
 #: /devel/php
-#, fuzzy
-#| msgctxt "gofast:gofast_retention"
-#| msgid "Unit"
 msgid "Unit"
 msgstr "Unité"
 
@@ -35816,8 +35531,6 @@ msgid "No search name"
 msgstr "Pas de nom de recherche"
 
 #: /devel/php
-#, fuzzy
-#| msgid "Search results"
 msgctxt "gofast:gofast_search_advanced"
 msgid "Search results"
 msgstr "Résultats de la recherche"
@@ -35897,8 +35610,6 @@ msgid "Are you sure you would like to remove theses memberships ?"
 msgstr "Etes-vous sûr de vouloir supprimer ces adhésions ?"
 
 #: /devel/php
-#, fuzzy
-#| msgid "Wiki article"
 msgctxt "gofast"
 msgid "Wiki article"
 msgstr "Article wiki"
@@ -35908,9 +35619,6 @@ msgid "Webforms"
 msgstr "Webforms"
 
 #: /workflow/api/add/stamp?data=%7B%22username%22+%3A+%22tgruffat%22%2C+%22nid%22+%3A+%222004%22%7D
-#, fuzzy
-#| msgctxt "gofast"
-#| msgid "Signed"
 msgctxt "gofast:gofast_stamp"
 msgid "Signed"
 msgstr "Signé"
@@ -36088,9 +35796,6 @@ msgid "Are you sure you want to publish this webform ?"
 msgstr "Etes-vous sûr de vouloir publier ce formulaire ?"
 
 #: /modal/ajax/node/316/webform/manage
-#, fuzzy
-#| msgctxt "gofast:gofast_webform"
-#| msgid "Publish"
 msgctxt "gofast_webform"
 msgid "Publish"
 msgstr "Publier"
@@ -36106,9 +35811,6 @@ msgid "Are you sure you want to unpublish this webform ?"
 msgstr "Etes-vous sûr de vouloir dépublier ce formulaire ?"
 
 #: /modal/ajax/node/316/webform/manage
-#, fuzzy
-#| msgctxt "gofast:gofast_webform"
-#| msgid "Unpublish"
 msgctxt "gofast_webform"
 msgid "Unpublish"
 msgstr "Dépublier"
