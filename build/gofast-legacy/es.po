@@ -7,7 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-19 15:42+0000\n"
 "PO-Revision-Date: 2025-09-19 16:08+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Spanish <https://translate.ceo-vision.com/projects/"
 "gofast-application/gofast-legacy/es/>\n"
 "Language: es\n"
@@ -12721,51 +12721,51 @@ msgstr "Hoy"
 
 #: modules/locale/locale.datepicker.js
 msgid "January"
-msgstr ""
+msgstr "Enero"
 
 #: modules/locale/locale.datepicker.js
 msgid "February"
-msgstr ""
+msgstr "Febrero"
 
 #: modules/locale/locale.datepicker.js
 msgid "March"
-msgstr ""
+msgstr "Marzo"
 
 #: modules/locale/locale.datepicker.js
 msgid "April"
-msgstr ""
+msgstr "Abril"
 
 #: modules/locale/locale.datepicker.js
 msgid "May"
-msgstr ""
+msgstr "Mayo"
 
 #: modules/locale/locale.datepicker.js
 msgid "June"
-msgstr ""
+msgstr "Junio"
 
 #: modules/locale/locale.datepicker.js
 msgid "July"
-msgstr ""
+msgstr "Julio"
 
 #: modules/locale/locale.datepicker.js
 msgid "August"
-msgstr ""
+msgstr "Agosto"
 
 #: modules/locale/locale.datepicker.js
 msgid "September"
-msgstr ""
+msgstr "Septiembre"
 
 #: modules/locale/locale.datepicker.js
 msgid "October"
-msgstr ""
+msgstr "Octubre"
 
 #: modules/locale/locale.datepicker.js
 msgid "November"
-msgstr ""
+msgstr "Noviembre"
 
 #: modules/locale/locale.datepicker.js
 msgid "December"
-msgstr ""
+msgstr "Diciembre"
 
 #: modules/locale/locale.datepicker.js
 msgid "Jan"
@@ -23928,7 +23928,7 @@ msgstr "Enlace entre el correo entrante/saliente :"
 #: /activity
 msgctxt "gofast"
 msgid "Lien entre courrier entrant/sortant"
-msgstr ""
+msgstr "Enlace entre el correo entrante/saliente :"
 
 #: /activity
 msgctxt "gofast"
