@@ -1,6 +1,6 @@
 # LANGUAGE translation of PROJECT
 # Copyright (c) YEAR NAME <EMAIL@ADDRESS>
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
