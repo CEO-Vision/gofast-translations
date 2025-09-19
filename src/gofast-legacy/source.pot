@@ -3,15 +3,6 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2023-09-04 11:10+0100\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: /sites/default/files/languages/gfen_.js?rzualv
 msgid ""
@@ -30577,3 +30568,4018 @@ msgctxt "Long month name"
 msgid "November"
 msgstr ""
 
+#: /admin/config/gofast/global/getform/edit-categories
+msgctxt "gofast:gofast"
+msgid "Naming rules"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-categories
+msgctxt "gofast:gofast_ac"
+msgid "Define"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-categories
+msgctxt "gofast:gofast_directory"
+msgid "Drag the metadata here"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-categories
+msgctxt "gofast:gofast_directory"
+msgid "Click here to remove the naming rule currently attached to this category"
+msgstr ""
+
+#: /directory/spaces
+msgctxt "gofast:gofast_directory"
+msgid "Path"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_directory/js/gofastDirectorySpacesTable.js
+msgctxt "gofast:gofast_directory"
+msgid "Filter by space path"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_stats/js/gofast_stats.js
+msgid "Enter login"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_stats/js/gofast_stats.js
+msgid "Enter first name or surname"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_stats/js/gofast_stats.js
+msgid "Enter entity name"
+msgstr ""
+
+#: /gofast/audit/get/site/0
+msgid "Role : "
+msgstr ""
+
+#: /gofast/audit/get/site/0
+msgid "Administrator member"
+msgstr ""
+
+#: /gofast/audit/get/site/0
+msgid "Contributor member"
+msgstr ""
+
+#: /gofast/audit/get/site/0
+msgid "Read-only member"
+msgstr ""
+
+#: /gofast_audit_export_xlsx?sort[field]=date&sort[sort]=asc
+msgctxt "gofast_stats"
+msgid "Firstname"
+msgstr ""
+
+#: /gofast_audit_export_xlsx?sort[field]=date&sort[sort]=asc
+msgctxt "gofast_stats"
+msgid "Lastname"
+msgstr ""
+
+#: /gofast_audit_export_xlsx?sort[field]=date&sort[sort]=asc
+msgctxt "gofast_stats"
+msgid "Event type"
+msgstr ""
+
+#: /gofast_audit_export_xlsx?sort[field]=date&sort[sort]=asc
+msgctxt "gofast_stats"
+msgid "Category"
+msgstr ""
+
+#: /gofast_audit
+msgid ""
+"Export: This will export all the filtered results under a limit of "
+"@max_results_size results"
+msgstr ""
+
+#: /gofast_audit
+msgid "Click for export"
+msgstr ""
+
+#: /admin/config/search/apachesolr/settings/gofast_solr/facets?destination=admin/config/search/apachesolr/settings
+msgctxt "gofast:gofast_metadata"
+msgid "Date"
+msgstr ""
+
+#: /update_node_field
+msgid "Date"
+msgstr ""
+
+#: /search/solr/test
+msgctxt "gofast"
+msgid "Date"
+msgstr ""
+
+#: /admin/config/search/apachesolr/settings/gofast_solr/facets?destination=admin/config/search/apachesolr/settings
+msgctxt "gofast:gofast_search"
+msgid "Filter by %label"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast_kanban"
+msgid "Update on task !title"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast_kanban"
+msgid ""
+"New deadline on \"!deadline\" for \"!title_todo\" of the \"!title\" "
+"task"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-documents
+msgctxt "gofast"
+msgid "Name of the custom date field"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast_kanban"
+msgid "Deadline has changed on a checklist element of the card : "
+msgstr ""
+
+msgctxt "gofast"
+msgid "Here are your deadline on @date, including @formatted_count"
+msgstr ""
+
+#: /devel/php; sites/all/modules/gofast/js/gofast.js
+msgctxt "gofast:gofast_of"
+msgid "Space renamed successfully"
+msgstr ""
+#: Gofast userlist preadd feature translations
+
+#: /modal/ajax/og/1282-1432-/contact/admins
+msgctxt "gofast:gofast_og::contact_admins"
+msgid "You are about to send a message to the administrators of the following space(s):"
+msgstr ""
+
+#: /modal/ajax/directory/bulk_action/contacts/delete/289-6466-
+msgctxt "gofast::directory::contacts::bulk::delete"
+msgid "Are you sure you want to delete these contacts?"
+msgstr ""
+#: /node/1
+msgid "Statistics / Audit"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Configure the services to send webhook data to."
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/add-service
+msgctxt "gofast:gofast_webhook"
+msgid "Service added successfully."
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "Viewing @title"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/edit-service/2
+msgctxt "gofast:gofast_webhook"
+msgid "Editing  @title"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "Service Name"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/delete-service/6
+msgctxt "gofast:gofast_webhook"
+msgid "Deleting @title"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/add-service
+msgctxt "gofast:gofast_webhook"
+msgid "Add Service"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/edit-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "Edit Service"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/delete-service/3
+msgctxt "gofast:gofast_webhook"
+msgid "Delete"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "API Endpoint"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Events"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Actions"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/delete-service/3
+msgctxt "gofast:gofast_webhook"
+msgid "Are you sure you want to delete this service?"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/delete-service/3
+msgctxt "gofast:gofast_webhook"
+msgid ""
+"Deleting this service will remove it from the configuration and this "
+"service will no longer receive data from GoFast Webhook. This action "
+"cannot be undone."
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/delete-service/3
+msgctxt "gofast:gofast_webhook"
+msgid "Delete Service"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Status"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "GoFast Webhook Settings"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "CREATE"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "UPDATE"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "DELETE"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "API Authentication Type"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "API Authentication Token"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "Include Authentication Token in Header"
+msgstr ""
+
+#: /gofast-webhook/modal/ajax/admin/settings/view-service/1
+msgctxt "gofast:gofast_webhook"
+msgid "Activate Service"
+msgstr ""
+
+#: /gofast_og/home_async/1
+msgctxt "gofast:gofast_og"
+msgid "Content"
+msgstr ""
+
+#: /ajax_file_browser/get_unzip_modal_content
+msgctxt "gofast:ajax_file_browser"
+msgid ""
+"Please note that a new folder will be created with the name of the zip "
+"file and the files will be extracted in it."
+msgstr ""
+
+#: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
+msgctxt "gofast:gofast_naming_rules"
+msgid "Category"
+msgstr ""
+
+#: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
+msgctxt "gofast:gofast_naming_rules"
+msgid "Creation date"
+msgstr ""
+
+#: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
+msgctxt "gofast:gofast_naming_rules"
+msgid "Author"
+msgstr ""
+
+#: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
+msgctxt "gofast:gofast_naming_rules"
+msgid "Reference"
+msgstr ""
+
+#: /gofast/admin/directory/categories?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query=&sort%5Bfield%5D=naming-rules&sort%5Bsort%5D=asc
+msgctxt "gofast:gofast_naming_rules"
+msgid "Title"
+msgstr ""
+
+#: /taxonomy/naming_rules/apply_category_confirm
+msgctxt "gofast:gofast_naming_rules"
+msgid "This category has a naming rule"
+msgstr ""
+
+#: /taxonomy/138/naming_rules/post
+msgctxt "gofast:gofast_naming_rules"
+msgid "The naming rule has been set successfully"
+msgstr ""
+
+#: /taxonomy/naming_rules/apply_category_confirm
+msgctxt "gofast:gofast_naming_rules"
+msgid "The category %name has a naming rule"
+msgstr ""
+
+#: /taxonomy/naming_rules/apply_category_confirm
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"This means that once applied to the document, the document name will "
+"change according to the following rule:"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ac/js/gofast_ac_drag.js
+msgid "Operation not allowed"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid "Therefore, the document will be renamed as follows:"
+msgstr ""
+
+#: /modal/ajax/directory/bulk_action/categories/merge/1
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"The selected category has the following naming rule "
+"&lt;rule&gt;&lt;/rule&gt;:"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"Removing the category %name from this document will also remove its "
+"current naming rule"
+msgstr ""
+
+#: /workflow/api/validate/access_document/?type_file_param=node&reference=1;&uid=1;
+msgctxt "gofast:gofast_workflows"
+msgid ""
+"The @title document is not available for @username. If the user were "
+"to view the document, the document would be made exceptionally "
+"available to the user for the duration of the task. Please be "
+"sure to know what you're doing before submitting."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast_workflows"
+msgid "Task @description reassigned to @actor"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_workflows/gofast_workflows.js
+msgctxt "gofast:gofast_workflows"
+msgid "Delegate the task @task"
+msgstr ""
+
+#: /gofast_stats/space_stats_async
+msgctxt "gofast:gofast_stats"
+msgid "Space users statistics"
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=%2Fgofast_audit
+msgid "Folder downloaded"
+msgstr ""
+
+#: sites/all/modules/gofast/js/gofast.js
+msgctxt "gofast:gofast_link_sharing"
+msgid "Download started..."
+msgstr ""
+
+#: sites/all/modules/gofast/js/gofast.js
+msgctxt "gofast:gofast_link_sharing"
+msgid "Download again"
+msgstr ""
+
+#: sites/all/modules/gofast/js/gofast.js
+msgctxt "gofast:gofast_link_sharing"
+msgid "Download completed"
+msgstr ""
+
+#: /devel/php
+msgctxt "sharing_dl"
+msgid "@destinaire downloaded your folder on the GoFAST platform"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "You can't create a @itemType with one of these characters @characters"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "You can't set a title with one of these characters @characters"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "folder"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "alfresco_item"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "article"
+msgstr ""
+
+#: /gofast/node-actions/5513
+msgid "This file has been removed from the trash and cannot be restored."
+msgstr ""
+
+#: /gofast/user/check/mail; sites/all/modules/gofast/gofast_user/js/gofast_user.js
+msgctxt "gofast:gofast_user"
+msgid "The e-mail address %mail is not valid."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_user/js/gofast_user.js
+msgctxt "gofast:gofast_user"
+msgid "A user with same email already exists, with username : %username"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_stats/js/gofast_stats.js; /ajax_file_browser/get_disabled_tabs/1
+msgctxt "gofast:gofast_audit"
+msgid "You are not allowed to see the audit page for this space"
+msgstr ""
+
+#: /gofast_stats/space_stats_async
+msgctxt "gofast:gofast_stats"
+msgid "Space documents statistics"
+msgstr ""
+
+msgctxt "gofast:gofast_stats"
+msgid "Show subspaces documents"
+msgstr ""
+
+#: /gofast_stats/space_stats_async
+msgctxt "gofast:gofast_stats"
+msgid "If enabled, sub-space documents will be counted in the graphs below."
+msgstr ""
+
+
+#: /gofast_stats/global_space_stats
+msgctxt "gofast_stats"
+msgid "Total Disabled Members"
+msgstr ""
+
+#: /gofast_stats/global_space_stats
+msgctxt "gofast_stats"
+msgid "Total Enabled Members (Active + Blocked)"
+msgstr ""
+
+#: /gofast_stats/global_space_stats
+msgctxt "gofast_stats"
+msgid "Total Documents"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:modal:title"
+msgid "Pre Add a member to this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:contextual_menu:item_label"
+msgid "Pre-Add members"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:modal:field"
+msgid "Message for space administrators"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:modal:submit_button"
+msgid "Pre-add new member(s)"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:field_label"
+msgid "Accept / Refuse Pending Members"
+msgstr ""
+
+msgctxt "gofast:userlist:preadd:role:label"
+msgid "Pending member"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:filter:label"
+msgid "Pending member"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:success:toast_message"
+msgid "The user has been successfully pre-added added to this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:error:toast_message"
+msgid "This user is already a member of this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:error:toast_message"
+msgid "This user is already pending member of this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:error:toast_message"
+msgid "An error occurred while adding the user to the userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:notify"
+msgid "An administrator has pre-added a user to a userlist you administer {asking_user} {userlist_link}"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:notify"
+msgid "You are an administrator of this userlist, please go to the {members_tab_link} of the userlist to accept or decline"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:action:error:toast_message"
+msgid "This action is reserved for the administrators of this userlist only"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:modal:title"
+msgid "Pre Add a member to this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:contextual_menu:item_label"
+msgid "Pre-Add members"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:modal:field"
+msgid "Message for space administrators"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:modal:submit_button"
+msgid "Pre-add new member(s)"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:field_label"
+msgid "Accept / Refuse Pending Members"
+msgstr ""
+
+msgctxt "gofast:userlist:preadd:role:label"
+msgid "Pending member"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:filter:label"
+msgid "Pending member"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:success:toast_message"
+msgid "The user has been successfully pre-added added to this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:error:toast_message"
+msgid "This user is already a member of this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:error:toast_message"
+msgid "This user is already pending member of this userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:error:toast_message"
+msgid "An error occurred while adding the user to the userlist"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:notify"
+msgid "An administrator has pre-added a user to a userlist you administer {asking_user} {userlist_link}"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:notify"
+msgid "You are an administrator of this userlist, please go to the {members_tab_link} of the userlist to accept or decline"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:action:error:toast_message"
+msgid "This action is reserved for the administrators of this userlist only"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:action:accept_member:button_tooltip"
+msgid "Accept Member"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd:action:accept_member:success:toast_message"
+msgid "Member added successfully"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd_action:refuse_member:button_tooltip"
+msgid "Refuse Member"
+msgstr ""
+
+msgctxt "gofast:gofast_userlist:preadd_action:refuse_member:success:toast_message"
+msgid "Member removed successfully"
+msgstr ""
+
+#: /gofast/node-actions/8
+msgctxt "gofast:gofast_userlist"
+msgid "Only business administrators can preadd users to user lists"
+msgstr ""
+
+#: /node/add/group
+msgctxt "gofast:gofast_og"
+msgid "Secondary Administrator *"
+msgstr ""
+
+#: /node/add/group
+msgctxt "gofast:gofast_og"
+msgid "You can't be the creator and the secondary administrator of a space in the same time."
+msgstr ""
+
+#: /modal/ajax/directory/bulk_action/contacts/delete/293-289
+msgctxt "gofast::directory::contacts::bulk::delete"
+msgid "Contacts deleted"
+msgstr ""
+
+#: /modal/ajax/directory/bulk_action/contacts/delete/33314-32718-
+msgctxt "gofast::directory::contacts::bulk::delete"
+msgid "Delete contacts"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Enable lobby room"
+msgstr ""
+
+#: /node/1
+msgctxt "gofast:gofast_conference"
+msgid "Lobby room"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "The first occupant of the room will be the owner of the room"
+msgstr ""
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgid ""
+"could not be included in the download because it is or contains a "
+"confidential document."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgid ""
+"An error occured attempting to download some files. "
+"Please make sure they are are not or do not contain confidential or internal documents."
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fspaces
+msgctxt "gofast:gofast_flag"
+msgid "Bookmark"
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fspaces
+msgctxt "gofast:gofast_flag"
+msgid "Unbookmark"
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fspaces
+msgctxt "gofast:gofast_flag"
+msgid "Subscribe"
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=%2Fdirectory%2Fspaces
+msgctxt "gofast:gofast_flag"
+msgid "Unsubscribe"
+msgstr ""
+
+#: /modal/ajax/og/space/bulk_subscribe/282-2009-2012-
+msgctxt "gofast:gofast_og"
+msgid "Confirm"
+msgstr ""
+
+#: /modal/ajax/og/space/bulk_subscribe/282-2009-2012-
+msgctxt "gofast:gofast_og:space_subscribe"
+msgid "Subscribe to spaces"
+msgstr ""
+
+#: /modal/ajax/og/space/bulk_subscribe/282-2009-2012-
+msgctxt "gofast:gofast_og:space_subscribe"
+msgid "Are you sure you want to subscribe to the following space(s) ?"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-general
+msgctxt "gofast"
+msgid "Logo on login page"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-general
+msgctxt "gofast"
+msgid "Not shown"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-general
+msgctxt "gofast"
+msgid "Above the login form (Pos.1)"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-general
+msgctxt "gofast"
+msgid "In the top right corner (Pos.2)"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-general
+msgctxt "gofast"
+msgid "At the center of the left block (Pos.3)"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-general
+msgctxt "gofast"
+msgid "Show available positions"
+msgstr ""
+
+#: /modal/ajax/og/space/bulk_subscribe/282-2009-2012-
+msgctxt "gofast:gofast_og:space_subscribe"
+msgid "You have been subscribed to the selected space(s)"
+msgstr ""
+
+#: /modal/ajax/og/space/bulk_subscribe/282-2009-2012-
+msgctxt "gofast:gofast_og:space_subscribe"
+msgid "You have been unsubscribed from the selected space(s)"
+msgstr ""
+
+#: /modal/ajax/og/space/bulk_unsubscribe/282-2009-2012-
+msgctxt "gofast:gofast_og:space_unsubscribe"
+msgid "Unsubscribe from spaces"
+msgstr ""
+
+#: /modal/ajax/og/space/bulk_unsubscribe/282-2009-2012-
+msgctxt "gofast:gofast_og:space_unsubscribe"
+msgid "Are you sure you want to unsubscribe from the following space(s) ?"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Service edited successfully."
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Service deleted successfully."
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Please enter a valid url endpoint including the url protocol eg https://example.com"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "The service information you entered resulted in an invalid configuration. Please check your information and try again."
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-webhook
+msgctxt "gofast:gofast_webhook"
+msgid "Something went wrong saving your configuration, please contact your administrator."
+msgstr ""
+#: /node/add/group
+msgid "Start typing the username or list"
+msgstr ""
+
+#: /node/add/group
+msgid "It is necessary to define a second backup administrator."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast"
+msgid "The Secondary Administrator field is required"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_retention"
+msgid "Hello @name"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid "This document has a naming rule enforced by its category"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Bluemind URL"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Enter the bluemind url"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Bluemind Email"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Bluemind Password"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Enter your Bluemind email address."
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Please enter your Bluemind email and API key to sync your conferences "
+"and meetings."
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=%2Fgofast_audit
+msgid "Folder downloaded"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-bluemind
+msgctxt "gofast:gofast_bluemind"
+msgid "Gofast Bluemind Settings"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Add calendar"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgctxt "gofast:gofast_calendar"
+msgid "Add Calendar"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar Type"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgctxt "gofast:gofast_bluemind"
+msgid "Choose the ics file to import"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar File"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar Link"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar upload started successfully. Your meetings will be displayed "
+"on your calendar once the upload is complete. Closing the site or "
+"refreshing the will cancel this process."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar upload started successfully."
+msgstr ""
+
+#: /system/ajax
+msgid "Error uploading events, the link is invalid"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Error uploading events, the file is not valid"
+msgstr ""
+
+#: /userlist/remove_member/229
+msgctxt "gofast:gofast_bluemind"
+msgid "Member removed successfully"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgctxt "gofast:gofast_bluemind"
+msgid "Choose calendar color"
+msgstr ""
+
+#: /modal/ajax/user/229/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Activating this will sync your bluemind conferences and meetings with "
+"@site_name Deactivating this will stop the sync but keep your "
+"configuration."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar Synchronization started successfully"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar Actions"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Not yet synced"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Last sync was on @last_sync"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Synchronize Bluemind Calendar"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Import Calendar from ics"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Activate sync"
+msgstr ""
+
+#: /node/6720
+msgctxt "gofast:gofast_conference"
+msgid "External Meeting Organizer"
+msgstr ""
+
+#: /node/6720
+msgctxt "gofast:gofast_conference"
+msgid "External Meeting Organizer"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Repetition"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Never repeat"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Every day"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Every week"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Every month"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Every year"
+msgstr ""
+
+#: /node/add/conference; sites/all/modules/gofast/gofast_conference/js/gofast_conference_form.js
+msgctxt "gofast:gofast_conference"
+msgid "Custom"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Frequency"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Interval"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Until"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Forever"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Infinite"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Number of occurrences"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Ends"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "After a given date"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "After a given number of occurrences"
+msgstr ""
+
+#: /node/8974
+msgctxt "gofast:gofast_conference"
+msgid "Never repeats"
+msgstr ""
+
+#: /node/8974; sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_conference"
+msgid "Repeats @pattern"
+msgstr ""
+
+#: /node/8974
+msgctxt "gofast:gofast_conference"
+msgid "Repeats"
+msgstr ""
+
+#: /node/8974
+msgctxt "gofast:gofast_conference"
+msgid "Occurrence number @number"
+msgstr ""
+
+#: /node/add/conference
+msgctxt "gofast:gofast_conference"
+msgid "Advanced configuration..."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Recurrence rule"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "By day"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by day\" field is a comma-separated list of two letter day codes "
+"(MO,TU,WE,TH,FR,SA,SU, for the days of the week starting from Monday), each "
+"day may be preceded by a signed number (e.g.: 1, -1, +1) to specify which "
+"occurrence of the given day should match within the selected frequency. "
+"Negative occurrence number count from the end of the frequency period."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "example(s): MO, 2TU, -1FR, +3TH, ..."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "By month day"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by month day\" field is a comma-separated list of signed day numbers "
+"within a month. Negative values count from the end of the month."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "example(s): 1, -1, +10, ..."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "By year day"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by year day\" field is a comma-separated list of signed day numbers "
+"within the year. Negative values count from the end of the year."
+msgstr ""
+"Le champs "par jour de l'année" est une liste séparée par des virgules de "
+"numéros de jour dans l'année signés. Les valeurs négatives comptent à partir "
+"de la fin de l'année"
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "By week number"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by week number\" field is a comma-separated list of signed week numbers "
+"within a year. Negative values count from the end of the year. The week "
+"chosen depends on the value of the \"week start\" field."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "By month"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by month\" field is a comma-separated list of signed month numbers "
+"within a year. Negative values count from the end of the year."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Week start"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Which day is the start of the week in the context of this event."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "By set position"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by set position\" field is a comma-separated list of signed occurrence "
+"numbers within an occurrence set. Negative values count from the end of the "
+"occurrence set. The occurrence set is the set of individual occurrences "
+"matched by the previous fields. e.g.: When \"frequency\" is monthly and "
+"\"by day\" is set to \"MO,TU,WE,TH,FR\", all work days of the month are "
+"occurrences. You can then set the \"by set position\" field value to \"-1\", "
+"by doing so you select the last of the work days of the month (repeated for "
+"every month)."
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Interval must be a number"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Interval must be greater than 0"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Occurrence count must be a number"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Occurrence count must be greater than 0"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "The \"by day\" field value is not formatted correctly"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by day\" field occurrence values must be in the ranges from -53 to -1 "
+"or from 1 to 53"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "Recurrence frequency is a required field"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "The \"until\" field must be a correctly formatted date"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by month\" field must be a comma-separated list of month numbers in "
+"the range from 1 to 12"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by month day\" field must be a comma-separated list of day numbers in "
+"the ranges from -31 to -1 or from 1 to 31"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by year day\" field must be a comma-separated list of numbers in the "
+"ranges from -366 to -1 or from 1 to 366"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by week number\" field must be a comma-separated list of numbers in "
+"the ranges from -53 to -1 or from 1 to 53"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by set position\" field must be a comma-separated list of numbers in "
+"the ranges from -366 to -1 or from 1 to 366"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid ""
+"The \"by day\" field cannot specify occurrence numbers when frequency is "
+"yearly and the \"by week number\" field is filled"
+msgstr ""
+
+#: /modal/ajax/recurrence
+msgctxt "gofast:gofast_conference"
+msgid "The value of the recurrence field is invalid"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Link"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "File"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Activate Calendar Syncing"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Checking this option will activate this module, and calendar syncing on configured user profile will be activated."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Choose calendar color"
+msgstr ""
+
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Calendar Type"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Calendar Link"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Calendar File"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Choose calendar color"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Add Calendar"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-bluemind
+msgid "Activate Calendar Syncing"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgid "Calendar Actions"
+msgstr ""
+
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Choose calendar color"
+msgstr ""
+
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar type"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Add calendar"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar File"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar Link"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar upload started successfully."
+msgstr ""
+
+#: /modal/ajax/user/229/edit
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Activating this will sync your bluemind conferences and meetings with "
+"@site_name Deactivating this will stop the sync but keep your "
+"configuration."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Activate sync"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Link"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "File"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Activate Calendar Syncing"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Checking this option will activate this module, and calendar syncing "
+"on configired user profile will be activated."
+msgstr ""
+
+#: /modal/ajax/user/256/edit
+msgid "Bluemind Email"
+msgstr ""
+
+#: /modal/ajax/user/256/edit
+msgid "Bluemind API Key"
+msgstr ""
+
+#: /modal/ajax/user/256/edit
+msgid "Calendar Type"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-bluemind
+msgctxt "gofast:gofast_bluemind"
+msgid "Gofast Bluemind Settings"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Bluemind URL"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Enter the bluemind url"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgctxt "gofast:gofast_bluemind"
+msgid "Add Calendar"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"This will only import events from the last week going ahead and not "
+"the past."
+msgstr ""
+
+#: /calendar/synchronize
+msgctxt "gofast:gofast_bluemind"
+msgid "Syncing Bluemind Events"
+msgstr ""
+
+#: /calendar/synchronize
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar synchronization has started successfully"
+msgstr ""
+
+#: /calendar/synchronize
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar Synchronization is not enabled on your account"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Bluemind Email"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Bluemind Password"
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid "Enter your bluemind email address."
+msgstr ""
+
+#: /modal/ajax/user/228/edit
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Please enter your bluemind email and password to sync your conferences "
+"and meetings."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Calendar upload started successfully. Your meetings will be displayed "
+"on your calendar once the upload is complete. Closing the site or "
+"refreshing the will cancel this process."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Error uploading events, the link is invalid"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Choose calendar color"
+msgstr ""
+
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar type"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Add calendar"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar File"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar Link"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Calendar upload started successfully."
+msgstr ""
+
+#: /modal/ajax/user/229/edit
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Activating this will sync your bluemind conferences and meetings with "
+"@site_name Deactivating this will stop the sync but keep your "
+"configuration."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Activate sync"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Link"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "File"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Activate Calendar Syncing"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Checking this option will activate this module, and calendar syncing "
+"on configired user profile will be activated."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar upload started successfully."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar Synchronization started successfully"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar Actions"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Not yet synced"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Last sync was on @last_sync"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Synchronize Bluemind Calendar"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Import Calendar from ics"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Add calendar"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgctxt "gofast:gofast_calendar"
+msgid "Add Calendar"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar File"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar Link"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid ""
+"This will only import events from the last week going ahead and not "
+"the past."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar Synchronization started successfully"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Calendar Actions"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Not yet synced"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Last sync was on @last_sync"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Synchronize Bluemind Calendar"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "Import Calendar from ics"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "The Bluemind calendar synchronization is deactivated globally"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgctxt "gofast:gofast_calendar"
+msgid "You deactivated the Bluemind calendar synchronization in your profile"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Calendar Type"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Calendar Link"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Calendar File"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Choose calendar color"
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgid "Add Calendar"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-bluemind
+msgid "Activate Calendar Syncing"
+msgstr ""
+
+#: /modal/ajax/user/256/edit
+msgid "Bluemind Last Sync"
+msgstr ""
+
+#: /admin/config/system/cron
+msgid "Sync user data with BlueMind"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_calendar/js/gofast_calendar.js
+msgid "Calendar Actions"
+msgstr ""
+
+#: /modal/ajax/user/256/edit
+msgid "Gofast Bluemind"
+msgstr ""
+
+#: /modal/ajax/user/256/edit
+msgid "Bluemind Email"
+msgstr ""
+
+#: /modal/ajax/user/256/edit
+msgid "Bluemind Password"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-bluemind
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Activating this will activate this module, and calendar syncing will "
+"be activated."
+msgstr ""
+
+#: /modal/ajax/calendar/add_calendar
+msgctxt "gofast:gofast_bluemind"
+msgid ""
+"Please note that only events from the last week going forward will be "
+"imported."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Error uploading events"
+msgstr ""
+
+#: /system/ajax
+msgid "Error uploading events"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_bluemind"
+msgid "Error uploading events, the file is not valid"
+msgstr ""
+
+#: /system/ajax
+msgid "Error uploading events, the file is not valid"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "C3 – Secret / Confidential"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "NC – Unclassified"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "C2 – Restricted Diffusion"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Top Secret Defense"
+msgstr ""
+
+#: /devel/php
+msgid "C1 – Internal use"
+msgstr ""
+
+
+#: /devel/php
+msgid "C3 – Secret / Confidential"
+msgstr ""
+
+#: /devel/php
+msgid "NC – Unclassified"
+msgstr ""
+
+#: /devel/php
+msgid "C2 – Restricted Diffusion"
+msgstr ""
+
+#: /devel/php
+msgid "Top Secret Defense"
+msgstr ""
+
+#: /devel/php
+msgid "C1 – Internal use"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Filter by Classification"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "'French Military"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Top Secret"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Restricted"
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Search history"
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Space(s)"
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Start entering a space name..."
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Select content category(ies)"
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Start entering a category name..."
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Enter search..."
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Satisfy all conditions"
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Satisfy at least one condition"
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "SEARCH AREA : Information"
+msgstr ""
+
+#: /search/advanced/filter/column?columns_displayed%5B%5D=on&columns_displayed%5B%5D=entity_id&columns_displayed%5B%5D=im_field_format&columns_displayed%5B%5D=label&columns_displayed%5B%5D=formatedGroupes&columns_displayed%5B%5D=im_field_state&columns_displayed%5B%5D=im_field_tags&columns_displayed%5B%5D=sm_vid_Category&columns_displayed%5B%5D=im_field_criticity&columns_displayed%5B%5D=sm_unr_author&columns_displayed%5B%5D=ds_created&columns_displayed%5B%5D=ds_changed&columns_displayed%5B%5D=ds_field_date&columns_displayed%5B%5D=tos_unr_document_reference&columns_displayed%5B%5D=ss_language&columns_displayed%5B%5D=ps_popularity&columns_displayed%5B%5D=
+msgid "Please select the columns you want to display"
+msgstr ""
+
+#: /search/advanced/filter/column?columns_displayed%5B%5D=on&columns_displayed%5B%5D=entity_id&columns_displayed%5B%5D=im_field_format&columns_displayed%5B%5D=label&columns_displayed%5B%5D=formatedGroupes&columns_displayed%5B%5D=im_field_state&columns_displayed%5B%5D=im_field_tags&columns_displayed%5B%5D=sm_vid_Category&columns_displayed%5B%5D=im_field_criticity&columns_displayed%5B%5D=sm_unr_author&columns_displayed%5B%5D=ds_created&columns_displayed%5B%5D=ds_changed&columns_displayed%5B%5D=ds_field_date&columns_displayed%5B%5D=tos_unr_document_reference&columns_displayed%5B%5D=ss_language&columns_displayed%5B%5D=ps_popularity&columns_displayed%5B%5D=; sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced_filter_column.js
+msgid "Check all"
+msgstr ""
+
+#: /search/advanced?language=fr
+msgid "Search name (to save in history)"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced_filter_column.js
+msgid "Uncheck all"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced_filter_column.js
+msgid "Columns filters"
+msgstr ""
+
+#: /modal/ajax/search/advanced/history/clear/confirm
+msgid "Are you sure you want to delete the advanced search history ?"
+msgstr ""
+
+#: /modal/ajax/search/advanced/history/clear/confirm
+msgid "Delete history"
+msgstr ""
+
+#: /modal/ajax/search/advanced/history/clear/confirm
+msgid "Confirm deletion of advanced search history"
+msgstr ""
+
+#: /node/add/group
+msgid "Start typing the username or list"
+msgstr ""
+
+#: /node/add/group
+msgid "It is necessary to define a second backup administrator."
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-categories
+msgctxt "gofast"
+msgid "Archivists"
+msgstr ""
+
+#: /gofast/poll
+msgctxt "gofast"
+msgid ""
+"The criticity of this document comes from its category. To be able to "
+"change it, you must change the document category or the category "
+"configuration."
+msgstr ""
+
+#: /gofast/admin/directory/categories?query%5Bstandard%5D=on&pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=16
+msgid ""
+"Click here to remove the retention rule currently attached to this "
+"category"
+msgstr ""
+
+#: /admin/action/apply_retention
+msgctxt "gofast:gofast_retention"
+msgid "The retention clear was successful"
+msgstr ""
+
+#: /modal/ajax/directory/bulk_action/categories/manage-criticities/196-
+msgctxt "gofast:gofast_taxonomy"
+msgid "You have successfully updated the criticity of the selected category"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_taxonomy"
+msgid "You have successfully updated the criticity of the selected categories"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
+msgid "Location modification"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
+msgid "Deletion"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
+msgid "Archiving"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
+msgid "Un-archiving"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
+msgid "Email Sharing"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
+msgid "Shared content download"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bperpage%5D=20&query=
+msgid "Member addition"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Login"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=12657&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=253128&query=&sort%5Bfield%5D=eventtype&sort%5Bsort%5D=asc
+msgctxt "gofast:gofast_audit"
+msgid "Activate"
+msgstr ""
+
+#: /taxonomy/naming_rules/apply_category_confirm
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"All the fields required by the naming rule are not filled. They will be replaced by empty strings."
+msgstr ""
+
+#: /taxonomy/naming_rules/apply_category_confirm
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"The naming rule results in an empty title and therefore it will not be applied."
+msgstr ""
+
+#: /update_node_field
+msgid "C1 – Internal use"
+msgstr ""
+
+#: /update_node_field
+msgid "Secret Defence"
+msgstr ""
+
+#: /update_node_field
+msgid "Restricted Diffusion"
+msgstr ""
+
+#: /update_node_field
+msgid "C2 – Restricted Diffusion"
+msgstr ""
+
+#: /update_node_field
+msgid "C3 – Secret / Confidential"
+msgstr ""
+
+#: /update_node_field
+msgid "NC – Unclassified"
+msgstr ""
+
+#: /update_node_field
+msgid "Top Secret Defence"
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=https%3A%2F%2Fgofast-dev.ceo-vision.com%2Fgofast%2Fnode-info%2F5623
+msgctxt "gofast"
+msgid "French Military"
+msgstr ""
+
+#: /gofast_ajaxification/ajax?url=https%3A%2F%2Fgofast-dev.ceo-vision.com%2Fgofast%2Fnode-info%2F5623
+msgctxt "gofast"
+msgid "Civil Organization"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "View"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Blocking"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Unblocking"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Disabling"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Download"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Publication creation"
+msgstr ""
+
+#: /gofast/node-breadcrumb/6847?options={%22show_title%22:true,%22alt_theme%22:%22gofast_document_breadcrumb%22}; sites/all/modules/gofast/js/gofastNode.js
+msgctxt "gofast"
+msgid "Click here to change the title metadata"
+msgstr ""
+
+
+#: sites/all/modules/gofast/gofast_kanban/js/gofastKanbanCardDetail.js
+msgctxt "gofast_kanban"
+msgid "Copy card @title"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_kanban/js/gofastKanban.js
+msgctxt "gofast_kanban"
+msgid "Copy this card"
+msgstr ""
+
+#: /kanban/task/6122/copy
+msgctxt "gofast_kanban"
+msgid "Copy"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_kanban/js/gofastKanbanCardDetail.js
+msgctxt "gofast_kanban"
+msgid "Are you sure you want to copy this card ?"
+msgstr ""
+#: sites/all/modules/gofast/js/gofastNode.js
+msgid "The description has been successfully updated"
+msgstr ""
+
+#: sites/all/modules/gofast/js/gofastNode.js
+msgid "The description has been successfully updated"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_views"
+msgid "The relationship was removed."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "The username must not contain the following non-ASCII characters: (@nonAllowedChars, ...)."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast_og:space_archive"
+msgid "You do not have the permission to archive the space(s) you selected."
+msgstr ""
+
+#: /api
+msgctxt "gofast:stats"
+msgid "User-Support"
+msgstr ""
+
+#: /gofast_stats/user_stats
+msgctxt "gofast_stats"
+msgid "Super-Administrator"
+msgstr ""
+
+#: /node/620
+msgctxt "gofast:gofast_userlist"
+msgid "Pending members"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=3196&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=63914&query%5Bevent_type%5D=user_unleave
+msgid "User unleave : "
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=2&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=31&query%5Bevent_type%5D=user_leave
+msgid "User leave : "
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=0&query%5Bevent_type%5D=user_unstandby&sort%5Bfield%5D=date&sort%5Bsort%5D=desc
+msgid "User activated : "
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_cmis"
+msgid "You don't have access to any space of the publication."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast_dashboard"
+msgid "You don't have any favorite @type at the moment. " 
+"Click on the 'Bookmark this' button in the action menu on any @type to add it to your favorites."
+msgstr ""
+"Cliquez sur le bouton "Ajouter au favoris" dans le menu d'action de n'importe quel @type pour l'ajouter à vos favoris."
+
+#: /devel/php
+msgid "space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_modal"
+msgid "The publication is currently locked, so you can't publish it again now."
+msgstr ""
+
+#: /node/
+msgctxt "gofast:gofast_cmis"
+msgid "This document preview generation in progress"
+msgstr ""
+
+#: /node/
+msgctxt "gofast:gofast_cmis"
+msgid "This might take a while before the preview is available, please reload this page after a few minutes"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast"
+msgid "Please select a user/userlist"
+msgstr ""
+
+#: /system/ajax
+msgctxt ""
+msgid "You can't rename a wiki homepage"
+msgstr ""
+
+#: /system/ajax
+msgctxt ""
+msgid "Link to document"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_search"
+msgid "Full Reindexing has been cancelled."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_search"
+msgid "Full reindexing has started."
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_og::contact_admins"
+msgid "Space"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_og::contact_admins"
+msgid "Administrators"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_og::contact_admins"
+msgid "Remove"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast_og"
+msgid "A user \"@role\" sent you a message"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_og"
+msgid "The message has been sent"
+msgstr ""
+
+#: /system/ajax
+msgctxt "gofast:gofast_og"
+msgid "Your message has been sent to the administrators of the space(s) you selected"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=3&query%5Bevent_type%5D=deny_membership
+msgid "Member denied : "
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=4&query%5Bevent_type%5D=preadd_user
+msgid "Pre-added member : "
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=12807&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=256135&query=
+msgctxt "gofast:gofast_audit"
+msgid "Pre-addition"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=2&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=26&query%5Bevent_type%5D=deny_membership
+msgctxt "gofast:gofast_audit"
+msgid "Membership refusal"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "This member is already a member of this space via a userlist."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "The username must not contain the following non-ASCII characters: (@nonAllowedChars, ...)."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "Standby user(s) :"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "Hello @name,"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "First Name"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "Last Name"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "Username"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "The following users are in standby"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Standby users notification"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_views"
+msgid "The relationship was removed."
+msgstr ""
+
+#: /modal/ajax/user/380/edit
+msgid "Bluemind Authentication successful."
+msgstr ""
+
+#: /modal/ajax/user/380/edit
+msgid ""
+"Bluemind Authentication failed. Please verify your credentials."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_bluemind/js/gofastBluemindAddCalendarForm.js
+msgctxt "gofast:gofast_calendar"
+msgid ""
+"File size exceeds the maximum allowed (9MB). Please choose a smaller "
+"file."
+msgstr ""
+
+msgid "An activated user with this e-mail address already exists."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "If checked, administrator will not be allowed to add external users to groups."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "If checked, administrator will not be allowed to add external users to organizations."
+msgstr ""
+
+#: /modal/ajax/user/380/edit
+msgctxt "gofast:gofast_user"
+msgid ""
+"Modifying this field will result in the creation of a new chat account with the new username. "
+"Your chats and groups will be lost. If you're changing your own username, you will be logged "
+"out to login with your new username."
+msgstr ""
+
+#: /modal/ajax/user/380/edit
+msgctxt "gofast:gofast_user"
+msgid "You cannot change a username if SASL authentication is enabled."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_views"
+msgid "The relationship was removed."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:taxonomy"
+msgid "Processed ! (The file type is either incompatible for transformation or is already in PDF format)."
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=10&query=
+msgctxt "gofast:gofast_audit"
+msgid "Comment deletion"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=0&query%5Bevent_type%5D=comment_updated
+msgctxt "gofast:gofast_audit"
+msgid "Comment creation"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=0&query%5Bevent_type%5D=comment_updated
+msgctxt "gofast:gofast_audit"
+msgid "Comment modification"
+msgstr ""
+
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=10&query=
+msgctxt "gofast:gofast_audit"
+msgid "Comment deletion"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=0&query%5Bevent_type%5D=comment_updated
+msgctxt "gofast:gofast_audit"
+msgid "Comment creation"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=1&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=0&query%5Bevent_type%5D=comment_updated
+msgctxt "gofast:gofast_audit"
+msgid "Comment modification"
+msgstr ""
+
+
+#: /devel/php
+msgctxt "gofast:gofast_stats"
+msgid "Documents stats export"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_stats"
+msgid "Select all the fields you want to export :"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_stats"
+msgid "Export document space statistics with current subspace filter"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=13266&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=265309&query=
+msgctxt "gofast"
+msgid "Modified comment"
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=13266&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=265316&query%5Bevent_type%5D=comment_deleted
+msgctxt "gofast"
+msgid "Deleted comment"
+msgstr ""
+
+
+#: /admin/config/system/cron/execute/gofast_mail_queue_cron
+msgctxt "gofast:gofast_user"
+msgid "Manually from the user creation form"
+msgstr ""
+
+#: /admin/config/system/cron/execute/gofast_mail_queue_cron
+msgctxt "gofast:gofast_user"
+msgid "Automatically through SSO SAML configuration."
+msgstr ""
+
+#: /admin/config/system/cron/execute/gofast_mail_queue_cron
+msgctxt "gofast:gofast_user"
+msgid "Automatically through LDAP synchronization."
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=13195&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=263881&query=&sort%5Bfield%5D=date&sort%5Bsort%5D=desc
+msgctxt "gofast:gofast_user"
+msgid "Creation method : "
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "User cannot be renamed."
+msgstr ""
+
+#: sites/all/modules/gofast/js/gofastNode.js
+msgid "The description has been successfully updated"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "!author has made changes to the content."
+msgstr ""
+
+#: /gofast/audit/get/site/0?pagination%5Bpage%5D=1&pagination%5Bpages%5D=9&pagination%5Bperpage%5D=20&pagination%5Btotal%5D=166&query%5Bevent_type%5D=update_node%3Bupdate_userlist&query%5Btype%5D=userlist&sort%5Bfield%5D=date&sort%5Bsort%5D=asc
+msgid "Updated member (from userlist %userlist): "
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Board columns"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_contextual_menu"
+msgid "You can't delete a userlist with assigned tasks."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_userlist"
+msgid "This userlist is deleted."
+msgstr ""
+
+#: /userlist/177/edit
+msgctxt "gofast:gofast_userlist"
+msgid "List is not synchronised"
+msgstr ""
+
+#: /userlist/177/edit
+msgctxt "gofast:gofast_userlist"
+msgid "No synchronisation yet"
+msgstr ""
+
+#: /userlist/177/edit
+msgctxt "gofast:gofast_userlist"
+msgid "Last synchronisation on @datetime"
+msgstr ""
+
+#: /node/177
+msgctxt "gofast:gofast_userlist"
+msgid ""
+"This userlist is synchronised with @sync_sources (last synchronisation "
+"on @sync_datetime)."
+msgstr ""
+
+#: /node/177
+msgctxt "gofast"
+msgid " and "
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "New internal users"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "New extranet users"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "Active internal users"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "Active extranet users"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "New internal members"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "New extranet members"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "Active internal members"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "Active extranet members"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:stats"
+msgid "Documents in this space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_og"
+msgid "No users statistics for private space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_stats"
+msgid "There is no subspaces in private space"
+msgstr ""
+
+#: /gofast/node-actions/8498
+msgid "@first_user and @second_user are co-editing"
+msgstr ""
+
+#: /gofast/node-actions/8498
+msgid "You are co-editing"
+msgstr ""
+
+#: /gofast/node-actions/8498
+msgid "@user is co-editing"
+msgstr ""
+
+#: /gofast/node-actions/8498
+msgid "@first_user, @second_user and 1 other are co-editing"
+msgstr ""
+
+#: /gofast/node-actions/8498
+msgid "@first_user, @second_user and @count others are co-editing"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For validation"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For signature"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For contribution"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For information"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For comment"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For signature (Yousign)"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For advanced signature (Yousign)"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "For signature (Digitalsign)"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid ""
+"You have tasks to perform on this document for the "
+"process \"@process_name\""
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Role modification"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_audit"
+msgid "Restoration"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Docs"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search"
+msgid "Selected elements are not documents neither wiki articles"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search"
+msgid "Checked items that are not content will not be added to the shopping cart."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast_kanban"
+msgid "!username has been assigned to a checklist element \"!title_todo\" in the card:"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "Update external link"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "External link URL : "
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "Link title"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "Link icon"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Enable automatic renaming"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "If this option is enabled, http requests will be made from the "
+"server to retrieve the page title."
+msgstr ""
+
+#: gofast_workflows_stats.js
+msgctxt "gofast:gofast_workflows_stats"
+msgid "This type of process does not generate data graphs."
+msgstr ""
+
+#: gofast_workflows_stats.js
+msgctxt "gofast:gofast_workflows_stats"
+msgid "Selected process type : "
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "General filters"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Document security"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "XSS filtering whitelist"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "By default and for security reasons, a large amount of HTML tags are filtered in space's "
+"home pages, articles, document's summaries... For complex usages, you may want to have "
+"some pages to bypass this filter, you can add them here by typing the page's title."
+msgstr ""
+
+#: /admin/config/gofast/update
+msgctxt "gofast"
+msgid "Metadata Management"
+msgstr ""
+
+#: sites/all/themes/bootstrap-keen/js/components/GofastEditableInput.js
+msgid "See less..."
+msgstr ""
+
+#: sites/all/themes/bootstrap-keen/js/components/GofastEditableInput.js
+msgid "See more..."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_metadata/js/gofast_metadata.js;
+msgctxt "gofast:gofast_metadata"
+msgid "The new field value is not valid."
+msgstr ""
+
+#: /devel/php
+msgid "GoFAST AI"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "GoFAST AI settings"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Spaces where AI tools are available"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "If no space is filled, AI will be available in all spaces."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "GoFAST AI is not allowed in the document location"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "You are not allowed to use GoFAST AI"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "AI learning from its mistakes is only available on dedicated instances of GoFAST AI"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "AI training is currently running, try again later"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Classification type"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Select which classification type should be used by AI for auto-labeling"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "@count document(s) should contribute the next refit. Refitting will make the AI models learn from their previous mistakes. The AI models will be fed with all documents which had AI processing and whose AI processing was amended by a user since the last refit. Refitting may be resource costly so be careful not to overdo it."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Select at which frequency you would like AI models to be refitted"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Recurrence"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "AI service is at full capacity right now, please try again later"
+msgstr ""
+
+#: /devel/php
+msgid "Unit"
+msgstr ""
+
+#: /devel/php
+msgid "Months"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Reverting back models fitting is a destructive operation. You will not be able to restore your current models fitting afterwards."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Reset models fitting"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Schedule full models refit"
+msgstr ""
+
+#: /devel/php
+msgid "I am sure"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Reset operation was successful"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Reset metadata auto-labeling model"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Reset anonymization model"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Schedule full refit for auto-labeling model"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Schedule full refit for anonymization model"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "During next night, AI models will be entirely refitted from the default fitting, using all documents which had AI processing and whose AI processing was amended by a user."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "The refit has been scheduled"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Labeled by AI"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Here is the content of a document named \"@title\":"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "===DOCUMENT CONTENT BEGINS==="
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "===DOCUMENT CONTENT ENDS==="
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "===DOCUMENT CONTENT ENDS==="
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Among the following categories, which one fits the document the most?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Among the following states, which one fits the document the most?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Your answer must be formatted as a JSON object:"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "`{Category: CATEGORY_NAME, State: STATE_NAME}` Where CATEGORY_NAME and STATE_NAME are the category and state which fit the document the most. The category name and state name must be picked from the lists above."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Just generate the JSON object without explanations."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Something went wrong when extracting document content"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Intelligent agent automatic tagging"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Auto-tagging was succesful"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Requesting the intelligent agent. This can take several seconds..."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "The intelligent agent makes the following proposal:"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Validate the category proposed by the AI"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search"
+msgid "Saved"
+msgstr ""
+#: /devel/php
+msgid "You can't create a folder with a name ending with '.'"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:taxonomy"
+msgid "the classification"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Anonymize this document"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Intelligent agent automatic anonymization"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "The intelligent agent has detected the following personal data:"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "No personal data has been detected in the document."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Create an anonymized publication"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Could not anonymize the file"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "The document was succesfully anonymized!"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "Create an anonymized PDF publication"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_cmis"
+msgid "This document has already been anonymized"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "This document is an anonymization"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Anonymization source"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Anonymization"
+msgstr ""
+
+#: ; sites/all/modules/gofast/gofast_mistral/js/gofast_mistral.js
+msgid "Add selection to list?"
+msgstr ""
+
+#: ; sites/all/modules/gofast/gofast_mistral/js/gofast_mistral.js
+msgctxt "gofast:gofast_mistral"
+msgid "Please reload the preview and review the changes before committing"
+msgstr ""
+
+#: ; sites/all/modules/gofast/gofast_mistral/js/gofast_mistral.js
+msgid "AI service is currently shut down"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "The document being long, the anonymization request has been queued. There is currently @count request scheduled before this one. When the results will be ready, they will be displayed here. Thanks for your understanding."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_mistral"
+msgid "The document being long, the anonymization request has been queued. There are currently @count requests scheduled before this one. When the results will be ready, they will be displayed here. Thanks for your understanding."
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-sso
+msgctxt "gofast"
+msgid "The login form may not be disabled if no SSO option is enabled"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-sso
+msgctxt "gofast:gofast_keycloak"
+msgid "The Keycloak ID provider name is required when enabled"
+msgstr ""
+
+#: /admin/config/gofast/global/getform/edit-sso
+msgctxt "gofast:gofast_keycloak"
+msgid "Enable Keycloak"
+msgstr ""
+
+#: /workflow/api/add/stamp?data=%7B%22username%22+%3A+%22tgruffat%22%2C+%22nid%22+%3A+%222004%22%7D
+msgctxt "gofast:gofast_stamp"
+msgid ""
+"@stamp_action on @date at @time"
+msgstr ""
+
+#: /workflow/api/add/stamp?data=%7B%22username%22+%3A+%22tgruffat%22%2C+%22nid%22+%3A+%222004%22%7D
+msgctxt "gofast:gofast_stamp"
+msgid ""
+"By @username"
+msgstr ""
+
+#: /node/27
+msgctxt "gofast"
+msgid "Open in a new tab"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"You are going to apply this naming rule to all documents with the associated category. "
+"The title of these documents will no longer be editable as long as they have this category. Are you sure ?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"You are going to apply naming rules to all documents with the associated categories. "
+"The title of these documents will no longer be editable as long as they have these categories. Are you sure ?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid "Are you sure you want to apply naming rule on the selected category ?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid "Are you sure you want to apply naming rules on the selected categories ?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid "Naming rules will be applied on all documents with selected categories in few minutes."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Apply naming rules"
+msgstr ""
+
+#: /userlist/8580/edit
+msgctxt "gofast:gofast_userlist"
+msgid ""
+"User list members cannot be edited while the list is synchronized with "
+"an external source"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "Archive extraction has begun"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "The archive have been correctly extracted"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "Type here the name of the destination folder : (Leave empty to extract here)"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "Folder @itemName already exists in this location."
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_ajax_file_browser/gofast_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "Content @itemName already exists in this location."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "Type here the name of the zip file :"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "This file will not be shared as it is confidential."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "These files will not be shared as they are confidential."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_modal"
+msgid "You can't share this folder as it contains confidential data."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Search and history"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Category(ies)"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Enter one or more keywords"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Start search to display results"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced_history.js
+msgid "{{start}} - {{end}} of {{total}} records"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Standard metadata"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced_history.js
+msgid "No search name"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Search results"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Export all search results (up to @max_results_size results)"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced_history.js
+msgctxt "gofast:gofast_search_advanced"
+msgid "Confirm deletion of selection from history"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Are you sure you want to delete the selected items ?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Are you sure you want to delete the advanced search history ?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Delete all history"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Delete selection"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced_history.js
+msgctxt "gofast:gofast_search_advanced"
+msgid "You must perform a search before filtering the columns."
+msgstr ""
+
+#: /devel/php
+msgid "Last modifier"
+msgstr ""
+
+#: /devel/php
+msgid "Not deleted"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_search_advanced"
+msgid "Try adding tags from the list"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_search_advanced/js/gofast_search_advanced.js
+msgctxt "gofast:gofast_search_advanced"
+msgid "There is no result to export"
+msgstr ""
+
+
+#: /devel/php
+msgctxt "gofast"
+msgid "At least one archivist is required when using retention"
+msgstr ""
+
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "This file will not be shared as it is confidential."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "These files will not be shared as they are confidential."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_modal"
+msgid "You can't share this folder as it contains confidential data."
+msgstr ""
+
+
+#: /spaces/ajax/node/118/admin/people/delete-membership/571
+msgid "The memberships were deleted."
+msgstr ""
+
+#: /spaces/ajax/node/225/admin/people/delete-multiple-membership/442-443
+msgid "Remove memberships in group @group"
+msgstr ""
+
+#: /spaces/ajax/node/225/admin/people/delete-multiple-membership/442-443
+msgid "Are you sure you would like to remove theses memberships ?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Wiki article"
+msgstr ""
+
+#: /devel/php
+msgid "Webforms"
+msgstr ""
+
+#: /workflow/api/add/stamp?data=%7B%22username%22+%3A+%22tgruffat%22%2C+%22nid%22+%3A+%222004%22%7D
+msgctxt "gofast:gofast_stamp"
+msgid "Signed"
+msgstr ""
+
+#: /workflow/api/add/stamp?data=%7B%22username%22+%3A+%22tgruffat%22%2C+%22nid%22+%3A+%222004%22%7D
+msgctxt "gofast:gofast_stamp"
+msgid "Validated"
+msgstr ""
+
+#: /spaces/ajax/node/199/admin/people/delete-multiple-membership/userlist:3-user:17
+msgctxt "gofast_og"
+msgid ""
+"If you delete a userlist from the space, users in this list will also "
+"be removed from their child spaces"
+msgstr ""
+
+#: /spaces/ajax/node/199/admin/bulk-instant-edit-membership/1/user:9-user:6
+msgctxt "gofast:gofast_og"
+msgid "A space must have at least two administrators"
+msgstr ""
+
+#: /spaces/ajax/node/199/admin/bulk-instant-edit-membership/1/user:9-user:6
+msgctxt "gofast:gofast_og"
+msgid "You can't remove the responsible of a space"
+msgstr ""
+
+#: /spaces/ajax/node/199/admin/bulk-instant-edit-membership/1/286-285-375-407	
+msgid "Change memberships in group @group"
+msgstr ""
+
+#: /devel/php
+msgid "You have selected more than 30 items, please try again with fewer items."
+msgstr ""
+
+#: /gofast_workflow_dashboard_export
+msgctxt "gofast:gofast_workflows"
+msgid "For signature (manual)"
+msgstr ""
+
+#: /workflow/api/sendmail
+msgctxt "gofast:gofast_workflows"
+msgid "For Signature (manual)"
+msgstr ""
+
+#: /workflow/api/sendmail
+msgctxt "gofast:gofast_workflows"
+msgid "has finished their task for signature (manual)"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "this space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "this document"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "this document"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "You don't have permission to edit @node_type"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "There is no metadata on private spaces"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "There is no metadata on root spaces"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_metadata"
+msgid "You can't edit root spaces metadata"
+msgstr ""
+
+#: sites/all/modules/gofast/gofast_cmis/gofast_cmis_ajax_file_browser.js
+msgctxt "gofast:gofast_ajax_file_browser"
+msgid "There is no metadata available on this type of location."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Default configuration of space creation form"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Classification field"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_signature"
+msgid "Consent message"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_signature"
+msgid "Phrase to be displayed before signature steps in the instantiation "
+"form of the document broadcast worflows."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_signature"
+msgid "Add \"I am aware of this information\" checkbox under consent message"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_signature"
+msgid ""
+"If checked, show a checkbox under the consent message and prevent user from starting "
+"workflows without checking it."
+msgstr ""
+
+#: /gofast_workflow_dashboard_export
+msgctxt "gofast:gofast_workflows"
+msgid "For Qualified Signature (YouSign)"
+msgstr ""
+
+#: /workflow/api/sendmail
+msgctxt "gofast:gofast_workflows"
+msgid "For Qualified Signature (YouSign)"
+msgstr ""
+
+#: /workflow/api/sendmail
+msgctxt "gofast:gofast_workflows"
+msgid "For qualified signature (Yousign)"
+msgstr ""
+
+#: /workflow/api/sendmail
+msgctxt "gofast:gofast_workflows"
+msgid "has finished their task for Qualified Yousign signature"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "@username does not have permissions to modify the document : @title"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_cmis"
+msgid "@extension preview can't be generated on file bigger than @max_size"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "Publish this webform"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "Unpublish this webform"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "Share the webform"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "Are you sure you want to publish this webform ?"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "Publish"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "The webform has been published"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "Are you sure you want to unpublish this webform ?"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "Unpublish"
+msgstr ""
+
+#: /modal/ajax/node/316/webform/manage
+msgctxt "gofast_webform"
+msgid "The webform has been unpublished"
+msgstr ""
+
+#: /api/webform/status?nid=316
+msgctxt "gofast:gofast_webform"
+msgid ""
+"The Webform is open for submitting, so you will not be able to edit "
+"it."
+msgstr ""
+
+#: /api/webform/status?nid=1591
+msgctxt "gofast:gofast_webform"
+msgid ""
+"The webform is closed for now. You can publish it from the contextual "
+"menu."
+msgstr ""
+
+#: /modal/ajax/node/2181/webform/manage
+msgid ""
+"Please note that if you unpublish this webform, you will permanently "
+"lose all submissions made!"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "has finished their task for Advanced Yousign signature"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "has finished their task for Yousign signature"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "has finished their task for validation and has &lt;strong "
+"style=&#039;color:#f0ad4e&#039;&gt;Refused&lt;/strong&gt; "
+"the validation and return the process to the validators"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "has finished their task for validation and has &lt;strong "
+"style=&#039;color:#f0ad4e&#039;&gt;Refused&lt;/strong&gt; "
+"the validation and return the process to the contributors"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "has finished their task for validation and has &lt;strong "
+"style=&#039;color:#c0392b&#039;&gt;Refused&lt;/strong&gt; the validation"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_workflows"
+msgid "Signature declined"
+msgstr ""
+
+#: /devel/php
+msgid "group manager"
+msgstr ""
+
+
+msgctxt "gofast"
+msgid "Subscription informations"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Subscription end date"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Internal accounts limit"
+msgstr ""
+
+msgctxt "gofast"
+msgid "External accounts limit"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Specific modules"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Specific options"
+msgstr ""
+
+msgctxt "gofast"
+msgid "License"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Upload a license file"
+msgstr ""
+
+msgctxt "gofast"
+msgid "License Accounts informations"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Number internal actives"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Number external actives"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Number internal inactives"
+msgstr ""
+
+msgctxt "gofast"
+msgid "Number external inactives"
+msgstr ""
+
+msgctxt "gofast"
+msgid "The GoFast subscription was not renewed on time, support and updates are suspended while the subscription is regularized."
+msgstr ""
+
+
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "[GOFAST] Annual Reporting – User Verification and GoFAST Subscription Renewal"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid ""
+"Hello,<br /><br />\r\n"
+"As part of the annual renewal of your GoFAST subscription scheduled "
+"for @renewal_date, we are providing you with information regarding "
+"user billing:<br /><br />\r\n"
+"Our policy for adjusting user accounts is detailed in our <a "
+"href='@mautic_link_cgv'>Terms and Conditions</a> under the section "
+"'PRICING AND PAYMENT TERMS'.<br /><br />\r\n"
+"The adjustment is made by calculating the difference between the "
+"average number of user accounts opened during the current year and the "
+"user accounts billed on the current subscription (expiring in 30 "
+"days); that is:<br /><br />\r\n"
+"Number of internal users billed at the start of the subscription = "
+"@limit_internal_users<br />\r\n"
+"Number of external users billed at the start of the subscription = "
+"@limit_external_users<br /><br />\r\n"
+"Average number of active internal users during the period = "
+"@annual_average_internal_users<br />\r\n"
+"Average number of active external users during the period = "
+"@annual_average_external_users<br /><br />"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "After calculation:<br /><br />"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid ""
+"If you have any questions, please do not hesitate to contact us.<br "
+"/>Best regards,<br /><br />The GoFAST – CEO-Vision Team"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid ""
+"Internal accounts to be adjusted: @annual_average_internal_users - "
+"@limit_internal_users = @difference_internal additional internal user "
+"accounts during the current period. An adjustment invoice will be "
+"issued to cover these @difference_internal additional accounts.<br "
+"/><br />"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid ""
+"External accounts to be adjusted: @annual_average_external_users - "
+"@limit_external_users = 0 – No additional external user accounts "
+"were created during the period, therefore no adjustment invoice will "
+"be issued.<br /><br />"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid ""
+"Internal accounts to be adjusted: @annual_average_internal_users - "
+"@limit_internal_users = 0 – No additional internal user accounts "
+"were created during the period, therefore no adjustment invoice will "
+"be issued.<br /><br />"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid ""
+"External accounts to be adjusted: @annual_average_external_users - "
+"@limit_external_users = @difference_external additional external user "
+"accounts during the current period. An adjustment invoice will be "
+"issued to cover these @difference_external additional accounts.<br "
+"/><br />"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Make space confidential"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Make space not confidential"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You cannot change the confidentiality of this space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You do not have the clearance for this action on this space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You cannot grant or revoke users confidential clearance."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"You cannot remove a user's confidential clearance if they are a member of a "
+"confidential space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You can't move a non-confidential subspace in a confidential space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You can't create a non confidential subspace in a confidential space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You cannot put a user without confidential clearance in confidential spaces"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You cannot remove a user's confidential clearance if they have a pending join request on a confidential space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_ac"
+msgid "doesn't have the confidential clearance"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Confidentiality"
+msgstr ""
+
+#: /devel/php; sites/all/modules/gofast/gofast_directory/js/gofastDirectorySpacesTable.js
+msgid "Confidential"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "User lists cannot be added to confidential spaces"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"User without confidential clearance @username cannot be added to confidential "
+"space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Make space confidential?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Make space non-confidential?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"Making this space confidential will remove non-confidential users and user "
+"list members. This cannot be undone."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"Making this space non-confidential will allow adding non-confidential users "
+"and user lists members again."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You do not have permission to change the confidentiality of contents."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"Cannot set space to confidential, space will end up without an administrator "
+"member or responsible."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"Cannot set space to confidential, some subspace is not confidential."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"Cannot remove space confidentiality, its parent space is confidential."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"This user's confidential clearance cannot be removed since they are a member "
+"of at least one confidential space."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"Users with confidential clearance will be allowed to be in confidential spaces."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Confidential clearance"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"You are adding members to a confidential space, only users with the "
+"confidential clearance will be suggested."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"You are pre-adding members to a confidential space, only users with the "
+"confidential clearance will be suggested."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"When the default classification for spaces is set to a confidential "
+"classification, the default will only be applied if the user creating the "
+"space has the appropriate clearance."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Classification metadata label"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid ""
+"Optional label to display instead of the classification metadata label. When "
+"this field is empty, the default label is used."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_contextual_menu"
+msgid "This space has subspaces"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You are about to activate or unblock those @count user(s) if possible"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "This user creation is on standby. {Click here} to validate the account creation"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_tour"
+msgid "No tour is available for this page."
+msgstr ""
+
+#: /devel/php
+msgid "The node is in a mirror folder, then you can\'t share it."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:last_event"
+msgid "the field @date_label"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_calendar"
+msgid "Display children's spaces calendars"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_calendar"
+msgid "Space(s)"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "You can not perform this action on confidential spaces"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_taxonomy"
+msgid "If you trigger new uploads before the current ones are finished, the values chosen here will be applied to the newer uploads as well."
+msgstr ""
+
+msgid "Closing Date"
+msgstr ""
+
+msgid "No actions available"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Restore space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Restore"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Restore"
+msgstr ""
+
+#: /devel/php; sites/all/modules/gofast/gofast_og/gofast_og.js
+msgctxt "gofast"
+msgid "1 item remaining..."
+msgid_plural "@count items remaining..."
+msgstr[0] "1 élément restant..."
+msgstr[1] "@count éléments restants..."
+
+#: /devel/php
+msgctxt "gofast:og"
+msgid ""
+"Are you sure you want to delete this space ? This destructive action may not "
+"be fully undone."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:og"
+msgid ""
+"When deleting a space, some elements will be definitively lost and will not "
+"be recoverable:"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:og"
+msgid ""
+"Documents with multiple locations will be removed from ![em]their locations "
+"in this space![/em]. The document will still be available within their other "
+"locations, ![em]including broadcasted locations![/em]."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:og"
+msgid ""
+"Directories with multiple locations in this space which were created "
+"elsewhere will be removed from ![em]their locations in this space![/em]."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:og"
+msgid ""
+"Directories with multiple locations which were originally created in this "
+"space will be removed from ![em]all their locations![/em]."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Step @number: !description"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Are you sure you want to restore this space?"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Restore folder."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Restore documents."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Restore space."
+msgstr ""
+
+#: /devel/php
+msgid "Restore this space"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Not allowed"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Deleted folder node does not exist"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Folder with same name already exists in restoration location"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Unknown error while restoring folder"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Unknown error while restoring space contents"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast"
+msgid "Metadata was added"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid "All the fields required by the naming rule are not filled. You have to fill all the required fields in order to apply the category."
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"The selected category has the following naming rule: "
+"&lt;rule&gt;&lt;/rule&gt;"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_naming_rules"
+msgid ""
+"The selected category has the following naming rule: &lt;rule&gt;&lt;/rule&gt;. Please be sure to know what you are doing before applying it."
+msgstr ""
+
+msgctxt "gofast"
+msgid "Hide the chat on @sitename"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "shared with you a folder on "
+msgstr ""
+
+#: /modal/ajax/manage-mail-sharing
+msgctxt "gofast:gofast_link_sharing"
+msgid "Information about shared folders"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "You shared @count folders with users in @site_name"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "You shared !folder_link with:"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_link_sharing"
+msgid "You shared @count folders with:"
+msgstr ""
+
+#: /devel/php
+msgid "Rename this document"
+msgstr ""
+
+#: /devel/php
+msgid "Rename this folder"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_views"
+msgid "The user has been unblocked or activated"
+msgstr ""
+
+#: /devel/php
+msgctxt "gofast:gofast_user"
+msgid "Adding external users to @space_type is disabled by the current platform configuration."
+msgstr ""
